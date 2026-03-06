@@ -2,15 +2,25 @@ import requests
 import json
 import os
 
-# Lista de loterias para processar
-LOTERIAS = ['lotofacil', 'megasena', 'lotomania', 'quina']
+# Lista com todas as outras loterias do Brasil (removendo a lotofacil)
+LOTERIAS = [
+    'megasena', 
+    'quina', 
+    'lotomania', 
+    'timemania', 
+    'duplasena', 
+    'diadesorte', 
+    'supersete', 
+    'maismilionaria'
+]
+
 BASE_URL = "https://loteriascaixa-api.herokuapp.com/api"
 OUTPUT_DIR = "dados_loterias"
 
 def fetch_data(loteria):
     url = f"{BASE_URL}/{loteria}"
     try:
-        response = requests.get(url, timeout=15)
+        response = requests.get(url, timeout=20) # Aumentei o timeout pois são mais requisições
         response.raise_for_status()
         return response.json()
     except requests.exceptions.RequestException as e:
@@ -24,15 +34,15 @@ def process_loteria(loteria):
     if not dados:
         return
 
-    # Garante que a pasta de saída existe
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    # 1. Os 10 últimos com rateio completo (Geralmente os primeiros da lista na API)
-    # A API retorna do mais recente para o mais antigo, mas vale garantir a ordenação.
-    dados_ordenados = sorted(dados, key=lambda x: x['concurso'], reverse=True)
+    # Ordena do mais recente para o mais antigo (garantia)
+    dados_ordenados = sorted(dados, key=lambda x: x.get('concurso', 0), reverse=True)
+    
+    # 1. Os 10 últimos com rateio completo
     ultimos_10 = dados_ordenados[:10]
 
-    # 2. Resumo de todos os concursos (Apenas dados essenciais para o App/Backtest)
+    # 2. Resumo de todos os concursos para o banco interno e backtest
     todos_resumido = []
     for concurso in dados_ordenados:
         todos_resumido.append({
@@ -49,7 +59,7 @@ def process_loteria(loteria):
         json.dump(ultimos_10, f, ensure_ascii=False, indent=2)
 
     with open(caminho_todos, 'w', encoding='utf-8') as f:
-        json.dump(todos_resumido, f, ensure_ascii=False) # Sem indent para economizar espaço
+        json.dump(todos_resumido, f, ensure_ascii=False)
 
     print(f"✅ {loteria.upper()} salva com sucesso!")
 
