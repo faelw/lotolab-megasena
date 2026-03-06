@@ -1,0 +1,1048 @@
+[
+  {
+    "loteria": "lotofacil",
+    "concurso": 3628,
+    "data": "05/03/2026",
+    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
+    "concursoEspecial": false,
+    "dezenasOrdemSorteio": [
+      "04",
+      "16",
+      "24",
+      "15",
+      "02",
+      "03",
+      "06",
+      "20",
+      "23",
+      "10",
+      "09",
+      "25",
+      "17",
+      "21",
+      "13"
+    ],
+    "dezenas": [
+      "02",
+      "03",
+      "04",
+      "06",
+      "09",
+      "10",
+      "13",
+      "15",
+      "16",
+      "17",
+      "20",
+      "21",
+      "23",
+      "24",
+      "25"
+    ],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "15 acertos",
+        "faixa": 1,
+        "ganhadores": 2,
+        "valorPremio": 829367.37
+      },
+      {
+        "descricao": "14 acertos",
+        "faixa": 2,
+        "ganhadores": 288,
+        "valorPremio": 1725.19
+      },
+      {
+        "descricao": "13 acertos",
+        "faixa": 3,
+        "ganhadores": 9924,
+        "valorPremio": 35.0
+      },
+      {
+        "descricao": "12 acertos",
+        "faixa": 4,
+        "ganhadores": 115558,
+        "valorPremio": 14.0
+      },
+      {
+        "descricao": "11 acertos",
+        "faixa": 5,
+        "ganhadores": 572811,
+        "valorPremio": 7.0
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": false,
+    "proximoConcurso": 3629,
+    "dataProximoConcurso": "06/03/2026",
+    "localGanhadores": [
+      {
+        "ganhadores": 1,
+        "municipio": "SENHOR DO BONFIM",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "BA"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "CASTILHO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      }
+    ],
+    "valorArrecadado": 22372227.5,
+    "valorAcumuladoConcurso_0_5": 2987652.85,
+    "valorAcumuladoConcursoEspecial": 76740646.92,
+    "valorAcumuladoProximoConcurso": 0.0,
+    "valorEstimadoProximoConcurso": 2000000.0
+  },
+  {
+    "loteria": "lotofacil",
+    "concurso": 3627,
+    "data": "04/03/2026",
+    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
+    "concursoEspecial": false,
+    "dezenasOrdemSorteio": [
+      "21",
+      "08",
+      "17",
+      "16",
+      "02",
+      "12",
+      "15",
+      "07",
+      "13",
+      "01",
+      "19",
+      "10",
+      "09",
+      "14",
+      "06"
+    ],
+    "dezenas": [
+      "01",
+      "02",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "19",
+      "21"
+    ],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "15 acertos",
+        "faixa": 1,
+        "ganhadores": 5,
+        "valorPremio": 1982105.68
+      },
+      {
+        "descricao": "14 acertos",
+        "faixa": 2,
+        "ganhadores": 481,
+        "valorPremio": 2237.88
+      },
+      {
+        "descricao": "13 acertos",
+        "faixa": 3,
+        "ganhadores": 15308,
+        "valorPremio": 35.0
+      },
+      {
+        "descricao": "12 acertos",
+        "faixa": 4,
+        "ganhadores": 207077,
+        "valorPremio": 14.0
+      },
+      {
+        "descricao": "11 acertos",
+        "faixa": 5,
+        "ganhadores": 1207986,
+        "valorPremio": 7.0
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": false,
+    "proximoConcurso": 3628,
+    "dataProximoConcurso": "05/03/2026",
+    "localGanhadores": [
+      {
+        "ganhadores": 1,
+        "municipio": "CANAL ELETRONICO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "--"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "FORTALEZA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "CE"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "CAMAPUA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MS"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "MOSSORO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "RN"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "SAO PAULO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      }
+    ],
+    "valorArrecadado": 54166651.0,
+    "valorAcumuladoConcurso_0_5": 2720115.0,
+    "valorAcumuladoConcursoEspecial": 76339340.12,
+    "valorAcumuladoProximoConcurso": 0.0,
+    "valorEstimadoProximoConcurso": 2000000.0
+  },
+  {
+    "loteria": "lotofacil",
+    "concurso": 3626,
+    "data": "03/03/2026",
+    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
+    "concursoEspecial": false,
+    "dezenasOrdemSorteio": [
+      "06",
+      "18",
+      "02",
+      "13",
+      "21",
+      "09",
+      "07",
+      "25",
+      "17",
+      "03",
+      "15",
+      "16",
+      "20",
+      "01",
+      "10"
+    ],
+    "dezenas": [
+      "01",
+      "02",
+      "03",
+      "06",
+      "07",
+      "09",
+      "10",
+      "13",
+      "15",
+      "16",
+      "17",
+      "18",
+      "20",
+      "21",
+      "25"
+    ],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "15 acertos",
+        "faixa": 1,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      },
+      {
+        "descricao": "14 acertos",
+        "faixa": 2,
+        "ganhadores": 330,
+        "valorPremio": 1861.23
+      },
+      {
+        "descricao": "13 acertos",
+        "faixa": 3,
+        "ganhadores": 12790,
+        "valorPremio": 35.0
+      },
+      {
+        "descricao": "12 acertos",
+        "faixa": 4,
+        "ganhadores": 168373,
+        "valorPremio": 14.0
+      },
+      {
+        "descricao": "11 acertos",
+        "faixa": 5,
+        "ganhadores": 933472,
+        "valorPremio": 7.0
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": true,
+    "proximoConcurso": 3627,
+    "dataProximoConcurso": "04/03/2026",
+    "localGanhadores": [],
+    "valorArrecadado": 36740592.0,
+    "valorAcumuladoConcurso_0_5": 1892097.85,
+    "valorAcumuladoConcursoEspecial": 75097314.39,
+    "valorAcumuladoProximoConcurso": 4776822.05,
+    "valorEstimadoProximoConcurso": 10000000.0
+  },
+  {
+    "loteria": "lotofacil",
+    "concurso": 3625,
+    "data": "02/03/2026",
+    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
+    "concursoEspecial": false,
+    "dezenasOrdemSorteio": [
+      "25",
+      "23",
+      "21",
+      "09",
+      "17",
+      "18",
+      "13",
+      "24",
+      "19",
+      "16",
+      "04",
+      "15",
+      "01",
+      "08",
+      "10"
+    ],
+    "dezenas": [
+      "01",
+      "04",
+      "08",
+      "09",
+      "10",
+      "13",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "21",
+      "23",
+      "24",
+      "25"
+    ],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "15 acertos",
+        "faixa": 1,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      },
+      {
+        "descricao": "14 acertos",
+        "faixa": 2,
+        "ganhadores": 204,
+        "valorPremio": 1898.94
+      },
+      {
+        "descricao": "13 acertos",
+        "faixa": 3,
+        "ganhadores": 7910,
+        "valorPremio": 35.0
+      },
+      {
+        "descricao": "12 acertos",
+        "faixa": 4,
+        "ganhadores": 106766,
+        "valorPremio": 14.0
+      },
+      {
+        "descricao": "11 acertos",
+        "faixa": 5,
+        "ganhadores": 593527,
+        "valorPremio": 7.0
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": true,
+    "proximoConcurso": 3626,
+    "dataProximoConcurso": "03/03/2026",
+    "localGanhadores": [],
+    "valorArrecadado": 23254707.0,
+    "valorAcumuladoConcurso_0_5": 1419630.8,
+    "valorAcumuladoConcursoEspecial": 74388613.81,
+    "valorAcumuladoProximoConcurso": 1847526.36,
+    "valorEstimadoProximoConcurso": 5500000.0
+  },
+  {
+    "loteria": "lotofacil",
+    "concurso": 3624,
+    "data": "28/02/2026",
+    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
+    "concursoEspecial": false,
+    "dezenasOrdemSorteio": [
+      "16",
+      "09",
+      "02",
+      "25",
+      "05",
+      "22",
+      "18",
+      "24",
+      "11",
+      "23",
+      "01",
+      "04",
+      "13",
+      "06",
+      "12"
+    ],
+    "dezenas": [
+      "01",
+      "02",
+      "04",
+      "05",
+      "06",
+      "09",
+      "11",
+      "12",
+      "13",
+      "16",
+      "18",
+      "22",
+      "23",
+      "24",
+      "25"
+    ],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "15 acertos",
+        "faixa": 1,
+        "ganhadores": 2,
+        "valorPremio": 991906.9
+      },
+      {
+        "descricao": "14 acertos",
+        "faixa": 2,
+        "ganhadores": 261,
+        "valorPremio": 2276.74
+      },
+      {
+        "descricao": "13 acertos",
+        "faixa": 3,
+        "ganhadores": 8976,
+        "valorPremio": 35.0
+      },
+      {
+        "descricao": "12 acertos",
+        "faixa": 4,
+        "ganhadores": 113125,
+        "valorPremio": 14.0
+      },
+      {
+        "descricao": "11 acertos",
+        "faixa": 5,
+        "ganhadores": 610502,
+        "valorPremio": 7.0
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": false,
+    "proximoConcurso": 3625,
+    "dataProximoConcurso": "02/03/2026",
+    "localGanhadores": [
+      {
+        "ganhadores": 1,
+        "municipio": "CANAL ELETRONICO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "--"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "GOIANIA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "GO"
+      }
+    ],
+    "valorArrecadado": 24531682.0,
+    "valorAcumuladoConcurso_0_5": 1121642.69,
+    "valorAcumuladoConcursoEspecial": 73941631.61,
+    "valorAcumuladoProximoConcurso": 0.0,
+    "valorEstimadoProximoConcurso": 2000000.0
+  },
+  {
+    "loteria": "lotofacil",
+    "concurso": 3623,
+    "data": "27/02/2026",
+    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
+    "concursoEspecial": false,
+    "dezenasOrdemSorteio": [
+      "20",
+      "11",
+      "22",
+      "09",
+      "16",
+      "19",
+      "13",
+      "04",
+      "12",
+      "24",
+      "06",
+      "10",
+      "07",
+      "02",
+      "14"
+    ],
+    "dezenas": [
+      "02",
+      "04",
+      "06",
+      "07",
+      "09",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "16",
+      "19",
+      "20",
+      "22",
+      "24"
+    ],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "15 acertos",
+        "faixa": 1,
+        "ganhadores": 4,
+        "valorPremio": 408580.41
+      },
+      {
+        "descricao": "14 acertos",
+        "faixa": 2,
+        "ganhadores": 364,
+        "valorPremio": 1344.89
+      },
+      {
+        "descricao": "13 acertos",
+        "faixa": 3,
+        "ganhadores": 10287,
+        "valorPremio": 35.0
+      },
+      {
+        "descricao": "12 acertos",
+        "faixa": 4,
+        "ganhadores": 107171,
+        "valorPremio": 14.0
+      },
+      {
+        "descricao": "11 acertos",
+        "faixa": 5,
+        "ganhadores": 546397,
+        "valorPremio": 7.0
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": false,
+    "proximoConcurso": 3624,
+    "dataProximoConcurso": "28/02/2026",
+    "localGanhadores": [
+      {
+        "ganhadores": 2,
+        "municipio": "CANAL ELETRONICO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "--"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "BELO HORIZONTE",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MG"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "SAO PAULO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      }
+    ],
+    "valorArrecadado": 21582407.0,
+    "valorAcumuladoConcurso_0_5": 801672.72,
+    "valorAcumuladoConcursoEspecial": 73461676.65,
+    "valorAcumuladoProximoConcurso": 0.0,
+    "valorEstimadoProximoConcurso": 2000000.0
+  },
+  {
+    "loteria": "lotofacil",
+    "concurso": 3622,
+    "data": "26/02/2026",
+    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
+    "concursoEspecial": false,
+    "dezenasOrdemSorteio": [
+      "18",
+      "14",
+      "10",
+      "12",
+      "16",
+      "11",
+      "02",
+      "15",
+      "21",
+      "20",
+      "03",
+      "09",
+      "06",
+      "07",
+      "19"
+    ],
+    "dezenas": [
+      "02",
+      "03",
+      "06",
+      "07",
+      "09",
+      "10",
+      "11",
+      "12",
+      "14",
+      "15",
+      "16",
+      "18",
+      "19",
+      "20",
+      "21"
+    ],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "15 acertos",
+        "faixa": 1,
+        "ganhadores": 1,
+        "valorPremio": 1825837.38
+      },
+      {
+        "descricao": "14 acertos",
+        "faixa": 2,
+        "ganhadores": 256,
+        "valorPremio": 2136.36
+      },
+      {
+        "descricao": "13 acertos",
+        "faixa": 3,
+        "ganhadores": 7010,
+        "valorPremio": 35.0
+      },
+      {
+        "descricao": "12 acertos",
+        "faixa": 4,
+        "ganhadores": 86944,
+        "valorPremio": 14.0
+      },
+      {
+        "descricao": "11 acertos",
+        "faixa": 5,
+        "ganhadores": 462350,
+        "valorPremio": 7.0
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": false,
+    "proximoConcurso": 3623,
+    "dataProximoConcurso": "27/02/2026",
+    "localGanhadores": [
+      {
+        "ganhadores": 1,
+        "municipio": "CANAL ELETRONICO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "--"
+      }
+    ],
+    "valorArrecadado": 20338010.0,
+    "valorAcumuladoConcurso_0_5": 538072.46,
+    "valorAcumuladoConcursoEspecial": 73066276.25,
+    "valorAcumuladoProximoConcurso": 0.0,
+    "valorEstimadoProximoConcurso": 1800000.0
+  },
+  {
+    "loteria": "lotofacil",
+    "concurso": 3621,
+    "data": "25/02/2026",
+    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
+    "concursoEspecial": false,
+    "dezenasOrdemSorteio": [
+      "10",
+      "15",
+      "11",
+      "13",
+      "24",
+      "09",
+      "01",
+      "02",
+      "06",
+      "18",
+      "04",
+      "22",
+      "25",
+      "07",
+      "23"
+    ],
+    "dezenas": [
+      "01",
+      "02",
+      "04",
+      "06",
+      "07",
+      "09",
+      "10",
+      "11",
+      "13",
+      "15",
+      "18",
+      "22",
+      "23",
+      "24",
+      "25"
+    ],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "15 acertos",
+        "faixa": 1,
+        "ganhadores": 2,
+        "valorPremio": 755105.96
+      },
+      {
+        "descricao": "14 acertos",
+        "faixa": 2,
+        "ganhadores": 264,
+        "valorPremio": 1713.51
+      },
+      {
+        "descricao": "13 acertos",
+        "faixa": 3,
+        "ganhadores": 8518,
+        "valorPremio": 35.0
+      },
+      {
+        "descricao": "12 acertos",
+        "faixa": 4,
+        "ganhadores": 97948,
+        "valorPremio": 14.0
+      },
+      {
+        "descricao": "11 acertos",
+        "faixa": 5,
+        "ganhadores": 519020,
+        "valorPremio": 7.0
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": false,
+    "proximoConcurso": 3622,
+    "dataProximoConcurso": "26/02/2026",
+    "localGanhadores": [
+      {
+        "ganhadores": 1,
+        "municipio": "CANAL ELETRONICO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "--"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "RIBEIRAO PRETO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      }
+    ],
+    "valorArrecadado": 20055476.0,
+    "valorAcumuladoConcurso_0_5": 243582.57,
+    "valorAcumuladoConcursoEspecial": 72624541.39,
+    "valorAcumuladoProximoConcurso": 0.0,
+    "valorEstimadoProximoConcurso": 1800000.0
+  },
+  {
+    "loteria": "lotofacil",
+    "concurso": 3620,
+    "data": "24/02/2026",
+    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
+    "concursoEspecial": false,
+    "dezenasOrdemSorteio": [
+      "11",
+      "12",
+      "02",
+      "01",
+      "24",
+      "04",
+      "15",
+      "16",
+      "07",
+      "18",
+      "09",
+      "20",
+      "25",
+      "21",
+      "19"
+    ],
+    "dezenas": [
+      "01",
+      "02",
+      "04",
+      "07",
+      "09",
+      "11",
+      "12",
+      "15",
+      "16",
+      "18",
+      "19",
+      "20",
+      "21",
+      "24",
+      "25"
+    ],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "15 acertos",
+        "faixa": 1,
+        "ganhadores": 3,
+        "valorPremio": 2210579.73
+      },
+      {
+        "descricao": "14 acertos",
+        "faixa": 2,
+        "ganhadores": 617,
+        "valorPremio": 1618.66
+      },
+      {
+        "descricao": "13 acertos",
+        "faixa": 3,
+        "ganhadores": 17375,
+        "valorPremio": 35.0
+      },
+      {
+        "descricao": "12 acertos",
+        "faixa": 4,
+        "ganhadores": 192554,
+        "valorPremio": 14.0
+      },
+      {
+        "descricao": "11 acertos",
+        "faixa": 5,
+        "ganhadores": 1008738,
+        "valorPremio": 7.0
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": false,
+    "proximoConcurso": 3621,
+    "dataProximoConcurso": "25/02/2026",
+    "localGanhadores": [
+      {
+        "ganhadores": 1,
+        "municipio": "CURITIBA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "PR"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "MOGI DAS CRUZES",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "SAO BERNARDO DO CAMPO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      }
+    ],
+    "valorArrecadado": 41213718.0,
+    "valorAcumuladoConcurso_0_5": 0.0,
+    "valorAcumuladoConcursoEspecial": 72259167.54,
+    "valorAcumuladoProximoConcurso": 0.0,
+    "valorEstimadoProximoConcurso": 1800000.0
+  },
+  {
+    "loteria": "lotofacil",
+    "concurso": 3619,
+    "data": "23/02/2026",
+    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
+    "concursoEspecial": false,
+    "dezenasOrdemSorteio": [
+      "13",
+      "23",
+      "11",
+      "01",
+      "16",
+      "14",
+      "18",
+      "07",
+      "19",
+      "02",
+      "20",
+      "10",
+      "24",
+      "08",
+      "25"
+    ],
+    "dezenas": [
+      "01",
+      "02",
+      "07",
+      "08",
+      "10",
+      "11",
+      "13",
+      "14",
+      "16",
+      "18",
+      "19",
+      "20",
+      "23",
+      "24",
+      "25"
+    ],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "15 acertos",
+        "faixa": 1,
+        "ganhadores": 5,
+        "valorPremio": 888751.35
+      },
+      {
+        "descricao": "14 acertos",
+        "faixa": 2,
+        "ganhadores": 654,
+        "valorPremio": 1249.08
+      },
+      {
+        "descricao": "13 acertos",
+        "faixa": 3,
+        "ganhadores": 18112,
+        "valorPremio": 35.0
+      },
+      {
+        "descricao": "12 acertos",
+        "faixa": 4,
+        "ganhadores": 188068,
+        "valorPremio": 14.0
+      },
+      {
+        "descricao": "11 acertos",
+        "faixa": 5,
+        "ganhadores": 960643,
+        "valorPremio": 7.0
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": false,
+    "proximoConcurso": 3620,
+    "dataProximoConcurso": "24/02/2026",
+    "localGanhadores": [
+      {
+        "ganhadores": 3,
+        "municipio": "CANAL ELETRONICO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "--"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "CHAPADAO DO SUL",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MS"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "SAO PAULO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      }
+    ],
+    "valorArrecadado": 37166528.0,
+    "valorAcumuladoConcurso_0_5": 2759789.39,
+    "valorAcumuladoConcursoEspecial": 71452511.32,
+    "valorAcumuladoProximoConcurso": 2759789.39,
+    "valorEstimadoProximoConcurso": 6500000.0
+  }
+]
