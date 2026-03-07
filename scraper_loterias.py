@@ -2,7 +2,7 @@ import requests
 import json
 import os
 
-# Lista com todas as outras loterias do Brasil (removendo a lotofacil)
+# Lista com todas as outras loterias do Brasil (exatamente como no App)
 LOTERIAS = [
     'megasena', 
     'quina', 
@@ -11,7 +11,8 @@ LOTERIAS = [
     'duplasena', 
     'diadesorte', 
     'supersete', 
-    'maismilionaria'
+    'maismilionaria',
+    'loteca' # <-- ADICIONAMOS A LOTECA AQUI!
 ]
 
 BASE_URL = "https://loteriascaixa-api.herokuapp.com/api"
@@ -20,7 +21,7 @@ OUTPUT_DIR = "dados_loterias"
 def fetch_data(loteria):
     url = f"{BASE_URL}/{loteria}"
     try:
-        response = requests.get(url, timeout=20) # Aumentei o timeout pois são mais requisições
+        response = requests.get(url, timeout=20) # Timeout alto para aguentar as 9 loterias
         response.raise_for_status()
         return response.json()
     except requests.exceptions.RequestException as e:
@@ -36,7 +37,7 @@ def process_loteria(loteria):
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    # Ordena do mais recente para o mais antigo (garantia)
+    # Ordena do mais recente para o mais antigo (garantia de consistência)
     dados_ordenados = sorted(dados, key=lambda x: x.get('concurso', 0), reverse=True)
     
     # 1. Os 10 últimos com rateio completo
