@@ -2,8 +2,8 @@ name: Atualizador de Loterias Diário
 
 on:
   schedule:
-    # Roda todos os dias às 23:30 (Horário de Brasília) - Ajuste conforme a necessidade
-    - cron: '30 2 * * *'
+    # Executa nos seguintes horários de Brasília: 12:00, 21:00, 22:00, 23:00 e 00:00
+    - cron: '0 0,1,2,3,15 * * *'
   workflow_dispatch: # Permite rodar manualmente no GitHub
 
 jobs:
