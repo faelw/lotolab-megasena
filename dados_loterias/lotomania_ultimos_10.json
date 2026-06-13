@@ -1,6 +1,115 @@
 [
   {
     "loteria": "lotomania",
+    "concurso": 2936,
+    "data": "12/06/2026",
+    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
+    "concursoEspecial": false,
+    "dezenasOrdemSorteio": [
+      "84",
+      "35",
+      "85",
+      "26",
+      "24",
+      "00",
+      "47",
+      "32",
+      "30",
+      "17",
+      "99",
+      "57",
+      "78",
+      "54",
+      "64",
+      "66",
+      "76",
+      "27",
+      "52",
+      "34"
+    ],
+    "dezenas": [
+      "00",
+      "17",
+      "24",
+      "26",
+      "27",
+      "30",
+      "32",
+      "34",
+      "35",
+      "47",
+      "52",
+      "54",
+      "57",
+      "64",
+      "66",
+      "76",
+      "78",
+      "84",
+      "85",
+      "99"
+    ],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "20 acertos",
+        "faixa": 1,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      },
+      {
+        "descricao": "19 acertos",
+        "faixa": 2,
+        "ganhadores": 5,
+        "valorPremio": 39015.83
+      },
+      {
+        "descricao": "18 acertos",
+        "faixa": 3,
+        "ganhadores": 56,
+        "valorPremio": 2177.22
+      },
+      {
+        "descricao": "17 acertos",
+        "faixa": 4,
+        "ganhadores": 505,
+        "valorPremio": 241.43
+      },
+      {
+        "descricao": "16 acertos",
+        "faixa": 5,
+        "ganhadores": 3134,
+        "valorPremio": 38.9
+      },
+      {
+        "descricao": "15 acertos",
+        "faixa": 6,
+        "ganhadores": 12059,
+        "valorPremio": 10.11
+      },
+      {
+        "descricao": "0 acertos",
+        "faixa": 7,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": true,
+    "proximoConcurso": 2937,
+    "dataProximoConcurso": "15/06/2026",
+    "localGanhadores": [],
+    "valorArrecadado": 3977571.0,
+    "valorAcumuladoConcurso_0_5": 0.0,
+    "valorAcumuladoConcursoEspecial": 0.0,
+    "valorAcumuladoProximoConcurso": 1202352.69,
+    "valorEstimadoProximoConcurso": 1800000.0
+  },
+  {
+    "loteria": "lotomania",
     "concurso": 2935,
     "data": "10/06/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
@@ -1055,114 +1164,5 @@
     "valorAcumuladoConcursoEspecial": 0.0,
     "valorAcumuladoProximoConcurso": 7969485.2,
     "valorEstimadoProximoConcurso": 9000000.0
-  },
-  {
-    "loteria": "lotomania",
-    "concurso": 2926,
-    "data": "20/05/2026",
-    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": false,
-    "dezenasOrdemSorteio": [
-      "19",
-      "72",
-      "82",
-      "35",
-      "93",
-      "01",
-      "50",
-      "91",
-      "02",
-      "11",
-      "69",
-      "43",
-      "89",
-      "65",
-      "64",
-      "27",
-      "75",
-      "61",
-      "09",
-      "74"
-    ],
-    "dezenas": [
-      "01",
-      "02",
-      "09",
-      "11",
-      "19",
-      "27",
-      "35",
-      "43",
-      "50",
-      "61",
-      "64",
-      "65",
-      "69",
-      "72",
-      "74",
-      "75",
-      "82",
-      "89",
-      "91",
-      "93"
-    ],
-    "trevos": [],
-    "timeCoracao": null,
-    "mesSorte": null,
-    "premiacoes": [
-      {
-        "descricao": "20 acertos",
-        "faixa": 1,
-        "ganhadores": 0,
-        "valorPremio": 0.0
-      },
-      {
-        "descricao": "19 acertos",
-        "faixa": 2,
-        "ganhadores": 4,
-        "valorPremio": 66423.28
-      },
-      {
-        "descricao": "18 acertos",
-        "faixa": 3,
-        "ganhadores": 67,
-        "valorPremio": 2478.48
-      },
-      {
-        "descricao": "17 acertos",
-        "faixa": 4,
-        "ganhadores": 614,
-        "valorPremio": 270.45
-      },
-      {
-        "descricao": "16 acertos",
-        "faixa": 5,
-        "ganhadores": 3564,
-        "valorPremio": 46.59
-      },
-      {
-        "descricao": "15 acertos",
-        "faixa": 6,
-        "ganhadores": 16459,
-        "valorPremio": 10.08
-      },
-      {
-        "descricao": "0 acertos",
-        "faixa": 7,
-        "ganhadores": 0,
-        "valorPremio": 0.0
-      }
-    ],
-    "estadosPremiados": [],
-    "observacao": "",
-    "acumulou": true,
-    "proximoConcurso": 2927,
-    "dataProximoConcurso": "22/05/2026",
-    "localGanhadores": [],
-    "valorArrecadado": 5417355.0,
-    "valorAcumuladoConcurso_0_5": 0.0,
-    "valorAcumuladoConcursoEspecial": 0.0,
-    "valorAcumuladoProximoConcurso": 6951042.49,
-    "valorEstimadoProximoConcurso": 8000000.0
   }
 ]
