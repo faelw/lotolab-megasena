@@ -1,6 +1,63 @@
 [
   {
     "loteria": "megasena",
+    "concurso": 3025,
+    "data": "30/06/2026",
+    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
+    "concursoEspecial": false,
+    "dezenasOrdemSorteio": [
+      "21",
+      "58",
+      "07",
+      "14",
+      "16",
+      "33"
+    ],
+    "dezenas": [
+      "07",
+      "14",
+      "16",
+      "21",
+      "33",
+      "58"
+    ],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "6 acertos",
+        "faixa": 1,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      },
+      {
+        "descricao": "5 acertos",
+        "faixa": 2,
+        "ganhadores": 95,
+        "valorPremio": 13278.38
+      },
+      {
+        "descricao": "4 acertos",
+        "faixa": 3,
+        "ganhadores": 3679,
+        "valorPremio": 565.18
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": true,
+    "proximoConcurso": 3026,
+    "dataProximoConcurso": "02/07/2026",
+    "localGanhadores": [],
+    "valorArrecadado": 31655730.0,
+    "valorAcumuladoConcurso_0_5": 2134754.8,
+    "valorAcumuladoConcursoEspecial": 15501445.12,
+    "valorAcumuladoProximoConcurso": 21308790.98,
+    "valorEstimadoProximoConcurso": 27000000.0
+  },
+  {
+    "loteria": "megasena",
     "concurso": 3024,
     "data": "27/06/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
@@ -529,71 +586,5 @@
     "valorAcumuladoConcursoEspecial": 6398491.66,
     "valorAcumuladoProximoConcurso": 3215317.75,
     "valorEstimadoProximoConcurso": 8000000.0
-  },
-  {
-    "loteria": "megasena",
-    "concurso": 3015,
-    "data": "06/06/2026",
-    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": false,
-    "dezenasOrdemSorteio": [
-      "18",
-      "31",
-      "58",
-      "53",
-      "26",
-      "09"
-    ],
-    "dezenas": [
-      "09",
-      "18",
-      "26",
-      "31",
-      "53",
-      "58"
-    ],
-    "trevos": [],
-    "timeCoracao": null,
-    "mesSorte": null,
-    "premiacoes": [
-      {
-        "descricao": "6 acertos",
-        "faixa": 1,
-        "ganhadores": 1,
-        "valorPremio": 30424768.27
-      },
-      {
-        "descricao": "5 acertos",
-        "faixa": 2,
-        "ganhadores": 68,
-        "valorPremio": 37037.29
-      },
-      {
-        "descricao": "4 acertos",
-        "faixa": 3,
-        "ganhadores": 4932,
-        "valorPremio": 841.73
-      }
-    ],
-    "estadosPremiados": [],
-    "observacao": "",
-    "acumulou": false,
-    "proximoConcurso": 3016,
-    "dataProximoConcurso": "09/06/2026",
-    "localGanhadores": [
-      {
-        "ganhadores": 1,
-        "municipio": "CANAL ELETRONICO",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "--"
-      }
-    ],
-    "valorArrecadado": 63202134.0,
-    "valorAcumuladoConcurso_0_5": 4262137.03,
-    "valorAcumuladoConcursoEspecial": 5594662.21,
-    "valorAcumuladoProximoConcurso": 0.0,
-    "valorEstimadoProximoConcurso": 3500000.0
   }
 ]
