@@ -1,6 +1,110 @@
 [
   {
     "loteria": "maismilionaria",
+    "concurso": 375,
+    "data": "26/07/2026",
+    "local": "Espaço da Sorte em SAO PAULO, SP",
+    "concursoEspecial": false,
+    "dezenasOrdemSorteio": [
+      "02",
+      "29",
+      "25",
+      "15",
+      "06",
+      "19",
+      "04",
+      "03"
+    ],
+    "dezenas": [
+      "02",
+      "06",
+      "15",
+      "19",
+      "25",
+      "29"
+    ],
+    "trevos": [
+      "3",
+      "4"
+    ],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "6 acertos + 2 trevos",
+        "faixa": 1,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      },
+      {
+        "descricao": "6 acertos + 1 ou nenhum trevo",
+        "faixa": 2,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      },
+      {
+        "descricao": "5 acertos + 2 trevos",
+        "faixa": 3,
+        "ganhadores": 1,
+        "valorPremio": 331694.58
+      },
+      {
+        "descricao": "5 acertos + 1 ou nenhum trevo",
+        "faixa": 4,
+        "ganhadores": 20,
+        "valorPremio": 7370.99
+      },
+      {
+        "descricao": "4 acertos + 2 trevos",
+        "faixa": 5,
+        "ganhadores": 68,
+        "valorPremio": 2322.79
+      },
+      {
+        "descricao": "4 acertos + 1 ou nenhum trevo",
+        "faixa": 6,
+        "ganhadores": 1161,
+        "valorPremio": 136.04
+      },
+      {
+        "descricao": "3 acertos + 2 trevos",
+        "faixa": 7,
+        "ganhadores": 1572,
+        "valorPremio": 50.0
+      },
+      {
+        "descricao": "3 acertos + 1 trevo",
+        "faixa": 8,
+        "ganhadores": 12525,
+        "valorPremio": 24.0
+      },
+      {
+        "descricao": "2 acertos + 2 trevos",
+        "faixa": 9,
+        "ganhadores": 13454,
+        "valorPremio": 12.0
+      },
+      {
+        "descricao": "2 acertos + 1 trevo",
+        "faixa": 10,
+        "ganhadores": 100316,
+        "valorPremio": 6.0
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": true,
+    "proximoConcurso": 376,
+    "dataProximoConcurso": "29/07/2026",
+    "localGanhadores": [],
+    "valorArrecadado": 9074508.0,
+    "valorAcumuladoConcurso_0_5": 0.0,
+    "valorAcumuladoConcursoEspecial": 0.0,
+    "valorAcumuladoProximoConcurso": 76294924.53,
+    "valorEstimadoProximoConcurso": 77000000.0
+  },
+  {
+    "loteria": "maismilionaria",
     "concurso": 374,
     "data": "22/07/2026",
     "local": "Espaço da Sorte em SAO PAULO, SP",
@@ -924,109 +1028,5 @@
     "valorAcumuladoConcursoEspecial": 0.0,
     "valorAcumuladoProximoConcurso": 65744374.88,
     "valorEstimadoProximoConcurso": 67000000.0
-  },
-  {
-    "loteria": "maismilionaria",
-    "concurso": 365,
-    "data": "20/06/2026",
-    "local": "Espaço da Sorte em SAO PAULO, SP",
-    "concursoEspecial": false,
-    "dezenasOrdemSorteio": [
-      "10",
-      "32",
-      "06",
-      "27",
-      "44",
-      "04",
-      "06",
-      "02"
-    ],
-    "dezenas": [
-      "04",
-      "06",
-      "10",
-      "27",
-      "32",
-      "44"
-    ],
-    "trevos": [
-      "2",
-      "6"
-    ],
-    "timeCoracao": null,
-    "mesSorte": null,
-    "premiacoes": [
-      {
-        "descricao": "6 acertos + 2 trevos",
-        "faixa": 1,
-        "ganhadores": 0,
-        "valorPremio": 0.0
-      },
-      {
-        "descricao": "6 acertos + 1 ou nenhum trevo",
-        "faixa": 2,
-        "ganhadores": 0,
-        "valorPremio": 0.0
-      },
-      {
-        "descricao": "5 acertos + 2 trevos",
-        "faixa": 3,
-        "ganhadores": 1,
-        "valorPremio": 299257.1
-      },
-      {
-        "descricao": "5 acertos + 1 ou nenhum trevo",
-        "faixa": 4,
-        "ganhadores": 23,
-        "valorPremio": 5782.75
-      },
-      {
-        "descricao": "4 acertos + 2 trevos",
-        "faixa": 5,
-        "ganhadores": 90,
-        "valorPremio": 1583.37
-      },
-      {
-        "descricao": "4 acertos + 1 ou nenhum trevo",
-        "faixa": 6,
-        "ganhadores": 1119,
-        "valorPremio": 127.34
-      },
-      {
-        "descricao": "3 acertos + 2 trevos",
-        "faixa": 7,
-        "ganhadores": 1617,
-        "valorPremio": 50.0
-      },
-      {
-        "descricao": "3 acertos + 1 trevo",
-        "faixa": 8,
-        "ganhadores": 12878,
-        "valorPremio": 24.0
-      },
-      {
-        "descricao": "2 acertos + 2 trevos",
-        "faixa": 9,
-        "ganhadores": 13152,
-        "valorPremio": 12.0
-      },
-      {
-        "descricao": "2 acertos + 1 trevo",
-        "faixa": 10,
-        "ganhadores": 98588,
-        "valorPremio": 6.0
-      }
-    ],
-    "estadosPremiados": [],
-    "observacao": "",
-    "acumulou": true,
-    "proximoConcurso": 366,
-    "dataProximoConcurso": "24/06/2026",
-    "localGanhadores": [],
-    "valorArrecadado": 8447808.0,
-    "valorAcumuladoConcurso_0_5": 0.0,
-    "valorAcumuladoConcursoEspecial": 0.0,
-    "valorAcumuladoProximoConcurso": 64930406.18,
-    "valorEstimadoProximoConcurso": 66000000.0
   }
 ]
