@@ -1,6 +1,114 @@
 [
   {
     "loteria": "duplasena",
+    "concurso": 2988,
+    "data": "27/07/2026",
+    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
+    "concursoEspecial": false,
+    "dezenasOrdemSorteio": [
+      "05",
+      "45",
+      "31",
+      "12",
+      "42",
+      "37",
+      "41",
+      "31",
+      "42",
+      "48",
+      "39",
+      "33"
+    ],
+    "dezenas": [
+      "05",
+      "12",
+      "31",
+      "37",
+      "42",
+      "45",
+      "31",
+      "33",
+      "39",
+      "41",
+      "42",
+      "48"
+    ],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "6 acertos",
+        "faixa": 1,
+        "ganhadores": 1,
+        "valorPremio": 1888040.62
+      },
+      {
+        "descricao": "5 acertos",
+        "faixa": 2,
+        "ganhadores": 8,
+        "valorPremio": 5812.31
+      },
+      {
+        "descricao": "4 acertos",
+        "faixa": 3,
+        "ganhadores": 412,
+        "valorPremio": 128.98
+      },
+      {
+        "descricao": "3 acertos",
+        "faixa": 4,
+        "ganhadores": 8578,
+        "valorPremio": 3.09
+      },
+      {
+        "descricao": "6 acertos",
+        "faixa": 5,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      },
+      {
+        "descricao": "5 acertos",
+        "faixa": 6,
+        "ganhadores": 4,
+        "valorPremio": 10462.17
+      },
+      {
+        "descricao": "4 acertos",
+        "faixa": 7,
+        "ganhadores": 325,
+        "valorPremio": 163.51
+      },
+      {
+        "descricao": "3 acertos",
+        "faixa": 8,
+        "ganhadores": 7309,
+        "valorPremio": 3.63
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": false,
+    "proximoConcurso": 2989,
+    "dataProximoConcurso": "29/07/2026",
+    "localGanhadores": [
+      {
+        "ganhadores": 1,
+        "municipio": "DOVERLANDIA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "GO"
+      }
+    ],
+    "valorArrecadado": 1516932.0,
+    "valorAcumuladoConcurso_0_5": 0.0,
+    "valorAcumuladoConcursoEspecial": 4353741.98,
+    "valorAcumuladoProximoConcurso": 51148.37,
+    "valorEstimadoProximoConcurso": 150000.0
+  },
+  {
+    "loteria": "duplasena",
     "concurso": 2987,
     "data": "24/07/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
@@ -877,113 +985,5 @@
     "valorAcumuladoConcursoEspecial": 3717285.15,
     "valorAcumuladoProximoConcurso": 308268.95,
     "valorEstimadoProximoConcurso": 500000.0
-  },
-  {
-    "loteria": "duplasena",
-    "concurso": 2978,
-    "data": "03/07/2026",
-    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": false,
-    "dezenasOrdemSorteio": [
-      "42",
-      "01",
-      "08",
-      "38",
-      "35",
-      "15",
-      "50",
-      "23",
-      "24",
-      "06",
-      "41",
-      "46"
-    ],
-    "dezenas": [
-      "01",
-      "08",
-      "15",
-      "35",
-      "38",
-      "42",
-      "06",
-      "23",
-      "24",
-      "41",
-      "46",
-      "50"
-    ],
-    "trevos": [],
-    "timeCoracao": null,
-    "mesSorte": null,
-    "premiacoes": [
-      {
-        "descricao": "6 acertos",
-        "faixa": 1,
-        "ganhadores": 1,
-        "valorPremio": 6670435.17
-      },
-      {
-        "descricao": "5 acertos",
-        "faixa": 2,
-        "ganhadores": 23,
-        "valorPremio": 5481.8
-      },
-      {
-        "descricao": "4 acertos",
-        "faixa": 3,
-        "ganhadores": 1051,
-        "valorPremio": 137.1
-      },
-      {
-        "descricao": "3 acertos",
-        "faixa": 4,
-        "ganhadores": 22148,
-        "valorPremio": 3.25
-      },
-      {
-        "descricao": "6 acertos",
-        "faixa": 5,
-        "ganhadores": 0,
-        "valorPremio": 0.0
-      },
-      {
-        "descricao": "5 acertos",
-        "faixa": 6,
-        "ganhadores": 17,
-        "valorPremio": 6674.9
-      },
-      {
-        "descricao": "4 acertos",
-        "faixa": 7,
-        "ganhadores": 1206,
-        "valorPremio": 119.48
-      },
-      {
-        "descricao": "3 acertos",
-        "faixa": 8,
-        "ganhadores": 22342,
-        "valorPremio": 3.22
-      }
-    ],
-    "estadosPremiados": [],
-    "observacao": "",
-    "acumulou": false,
-    "proximoConcurso": 2979,
-    "dataProximoConcurso": "06/07/2026",
-    "localGanhadores": [
-      {
-        "ganhadores": 1,
-        "municipio": "GOIANIA",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "GO"
-      }
-    ],
-    "valorArrecadado": 4113180.0,
-    "valorAcumuladoConcurso_0_5": 0.0,
-    "valorAcumuladoConcursoEspecial": 3651107.75,
-    "valorAcumuladoProximoConcurso": 138689.44,
-    "valorEstimadoProximoConcurso": 150000.0
   }
 ]
