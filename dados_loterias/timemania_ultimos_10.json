@@ -1,6 +1,83 @@
 [
   {
     "loteria": "timemania",
+    "concurso": 2422,
+    "data": "30/07/2026",
+    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
+    "concursoEspecial": false,
+    "dezenasOrdemSorteio": [
+      "11",
+      "34",
+      "68",
+      "21",
+      "19",
+      "24",
+      "78"
+    ],
+    "dezenas": [
+      "11",
+      "19",
+      "21",
+      "24",
+      "34",
+      "68",
+      "78"
+    ],
+    "trevos": [],
+    "timeCoracao": "TOMBENSE /MG",
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "7 acertos",
+        "faixa": 1,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      },
+      {
+        "descricao": "6 acertos",
+        "faixa": 2,
+        "ganhadores": 4,
+        "valorPremio": 26817.12
+      },
+      {
+        "descricao": "5 acertos",
+        "faixa": 3,
+        "ganhadores": 85,
+        "valorPremio": 1802.83
+      },
+      {
+        "descricao": "4 acertos",
+        "faixa": 4,
+        "ganhadores": 1760,
+        "valorPremio": 10.5
+      },
+      {
+        "descricao": "3 acertos",
+        "faixa": 5,
+        "ganhadores": 17620,
+        "valorPremio": 3.5
+      },
+      {
+        "descricao": "Time do Coração",
+        "faixa": 6,
+        "ganhadores": 3433,
+        "valorPremio": 8.5
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": true,
+    "proximoConcurso": 2423,
+    "dataProximoConcurso": "01/08/2026",
+    "localGanhadores": [],
+    "valorArrecadado": 1751067.5,
+    "valorAcumuladoConcurso_0_5": 149742.3,
+    "valorAcumuladoConcursoEspecial": 0.0,
+    "valorAcumuladoProximoConcurso": 5627795.46,
+    "valorEstimadoProximoConcurso": 6000000.0
+  },
+  {
+    "loteria": "timemania",
     "concurso": 2421,
     "data": "28/07/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
@@ -691,82 +768,5 @@
     "valorAcumuladoConcursoEspecial": 0.0,
     "valorAcumuladoProximoConcurso": 3019678.87,
     "valorEstimadoProximoConcurso": 3200000.0
-  },
-  {
-    "loteria": "timemania",
-    "concurso": 2412,
-    "data": "07/07/2026",
-    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": false,
-    "dezenasOrdemSorteio": [
-      "49",
-      "25",
-      "66",
-      "09",
-      "73",
-      "16",
-      "47"
-    ],
-    "dezenas": [
-      "09",
-      "16",
-      "25",
-      "47",
-      "49",
-      "66",
-      "73"
-    ],
-    "trevos": [],
-    "timeCoracao": "FLAMENGO /RJ",
-    "mesSorte": null,
-    "premiacoes": [
-      {
-        "descricao": "7 acertos",
-        "faixa": 1,
-        "ganhadores": 0,
-        "valorPremio": 0.0
-      },
-      {
-        "descricao": "6 acertos",
-        "faixa": 2,
-        "ganhadores": 6,
-        "valorPremio": 11430.23
-      },
-      {
-        "descricao": "5 acertos",
-        "faixa": 3,
-        "ganhadores": 75,
-        "valorPremio": 1306.31
-      },
-      {
-        "descricao": "4 acertos",
-        "faixa": 4,
-        "ganhadores": 1464,
-        "valorPremio": 10.5
-      },
-      {
-        "descricao": "3 acertos",
-        "faixa": 5,
-        "ganhadores": 14276,
-        "valorPremio": 3.5
-      },
-      {
-        "descricao": "Time do Coração",
-        "faixa": 6,
-        "ganhadores": 20104,
-        "valorPremio": 8.5
-      }
-    ],
-    "estadosPremiados": [],
-    "observacao": "",
-    "acumulou": true,
-    "proximoConcurso": 2413,
-    "dataProximoConcurso": "09/07/2026",
-    "localGanhadores": [],
-    "valorArrecadado": 1452178.0,
-    "valorAcumuladoConcurso_0_5": 115052.68,
-    "valorAcumuladoConcursoEspecial": 0.0,
-    "valorAcumuladoProximoConcurso": 2819872.27,
-    "valorEstimadoProximoConcurso": 3100000.0
   }
 ]
