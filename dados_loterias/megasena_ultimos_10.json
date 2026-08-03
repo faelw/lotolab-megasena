@@ -1,6 +1,63 @@
 [
   {
     "loteria": "megasena",
+    "concurso": 3039,
+    "data": "02/08/2026",
+    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
+    "concursoEspecial": false,
+    "dezenasOrdemSorteio": [
+      "21",
+      "58",
+      "53",
+      "16",
+      "14",
+      "39"
+    ],
+    "dezenas": [
+      "14",
+      "16",
+      "21",
+      "39",
+      "53",
+      "58"
+    ],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "6 acertos",
+        "faixa": 1,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      },
+      {
+        "descricao": "5 acertos",
+        "faixa": 2,
+        "ganhadores": 86,
+        "valorPremio": 45932.28
+      },
+      {
+        "descricao": "4 acertos",
+        "faixa": 3,
+        "ganhadores": 6332,
+        "valorPremio": 1028.31
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": true,
+    "proximoConcurso": 3040,
+    "dataProximoConcurso": "04/08/2026",
+    "localGanhadores": [],
+    "valorArrecadado": 99128868.0,
+    "valorAcumuladoConcurso_0_5": 120291501.97,
+    "valorAcumuladoConcursoEspecial": 38068598.61,
+    "valorAcumuladoProximoConcurso": 120291501.97,
+    "valorEstimadoProximoConcurso": 135000000.0
+  },
+  {
+    "loteria": "megasena",
     "concurso": 3038,
     "data": "30/07/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
@@ -511,71 +568,5 @@
     "valorAcumuladoConcursoEspecial": 22277738.54,
     "valorAcumuladoProximoConcurso": 19448106.72,
     "valorEstimadoProximoConcurso": 25000000.0
-  },
-  {
-    "loteria": "megasena",
-    "concurso": 3029,
-    "data": "09/07/2026",
-    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": false,
-    "dezenasOrdemSorteio": [
-      "11",
-      "59",
-      "33",
-      "35",
-      "24",
-      "01"
-    ],
-    "dezenas": [
-      "01",
-      "11",
-      "24",
-      "33",
-      "35",
-      "59"
-    ],
-    "trevos": [],
-    "timeCoracao": null,
-    "mesSorte": null,
-    "premiacoes": [
-      {
-        "descricao": "6 acertos",
-        "faixa": 1,
-        "ganhadores": 1,
-        "valorPremio": 43068394.39
-      },
-      {
-        "descricao": "5 acertos",
-        "faixa": 2,
-        "ganhadores": 39,
-        "valorPremio": 45642.92
-      },
-      {
-        "descricao": "4 acertos",
-        "faixa": 3,
-        "ganhadores": 3261,
-        "valorPremio": 899.78
-      }
-    ],
-    "estadosPremiados": [],
-    "observacao": "",
-    "acumulou": false,
-    "proximoConcurso": 3030,
-    "dataProximoConcurso": "11/07/2026",
-    "localGanhadores": [
-      {
-        "ganhadores": 1,
-        "municipio": "DIVINOPOLIS",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "MG"
-      }
-    ],
-    "valorArrecadado": 44670594.0,
-    "valorAcumuladoConcurso_0_5": 14102536.67,
-    "valorAcumuladoConcursoEspecial": 20941346.02,
-    "valorAcumuladoProximoConcurso": 14102536.67,
-    "valorEstimadoProximoConcurso": 20000000.0
   }
 ]
