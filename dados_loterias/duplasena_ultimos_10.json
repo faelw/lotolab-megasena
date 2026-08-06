@@ -1,6 +1,105 @@
 [
   {
     "loteria": "duplasena",
+    "concurso": 2992,
+    "data": "05/08/2026",
+    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
+    "concursoEspecial": false,
+    "dezenasOrdemSorteio": [
+      "16",
+      "30",
+      "21",
+      "10",
+      "14",
+      "31",
+      "35",
+      "34",
+      "38",
+      "02",
+      "48",
+      "11"
+    ],
+    "dezenas": [
+      "10",
+      "14",
+      "16",
+      "21",
+      "30",
+      "31",
+      "02",
+      "11",
+      "34",
+      "35",
+      "38",
+      "48"
+    ],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "6 acertos",
+        "faixa": 1,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      },
+      {
+        "descricao": "5 acertos",
+        "faixa": 2,
+        "ganhadores": 4,
+        "valorPremio": 8851.74
+      },
+      {
+        "descricao": "4 acertos",
+        "faixa": 3,
+        "ganhadores": 290,
+        "valorPremio": 139.53
+      },
+      {
+        "descricao": "3 acertos",
+        "faixa": 4,
+        "ganhadores": 5585,
+        "valorPremio": 3.62
+      },
+      {
+        "descricao": "6 acertos",
+        "faixa": 5,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      },
+      {
+        "descricao": "5 acertos",
+        "faixa": 6,
+        "ganhadores": 5,
+        "valorPremio": 6373.26
+      },
+      {
+        "descricao": "4 acertos",
+        "faixa": 7,
+        "ganhadores": 285,
+        "valorPremio": 141.98
+      },
+      {
+        "descricao": "3 acertos",
+        "faixa": 8,
+        "ganhadores": 5699,
+        "valorPremio": 3.55
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": true,
+    "proximoConcurso": 2993,
+    "dataProximoConcurso": "07/08/2026",
+    "localGanhadores": [],
+    "valorArrecadado": 1155090.0,
+    "valorAcumuladoConcurso_0_5": 0.0,
+    "valorAcumuladoConcursoEspecial": 4570311.25,
+    "valorAcumuladoProximoConcurso": 606106.88,
+    "valorEstimadoProximoConcurso": 750000.0
+  },
+  {
+    "loteria": "duplasena",
     "concurso": 2991,
     "data": "03/08/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
@@ -886,104 +985,5 @@
     "valorAcumuladoConcursoEspecial": 3986064.34,
     "valorAcumuladoProximoConcurso": 997015.34,
     "valorEstimadoProximoConcurso": 1200000.0
-  },
-  {
-    "loteria": "duplasena",
-    "concurso": 2982,
-    "data": "13/07/2026",
-    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": false,
-    "dezenasOrdemSorteio": [
-      "20",
-      "27",
-      "04",
-      "40",
-      "24",
-      "41",
-      "28",
-      "30",
-      "03",
-      "13",
-      "35",
-      "12"
-    ],
-    "dezenas": [
-      "04",
-      "20",
-      "24",
-      "27",
-      "40",
-      "41",
-      "03",
-      "12",
-      "13",
-      "28",
-      "30",
-      "35"
-    ],
-    "trevos": [],
-    "timeCoracao": null,
-    "mesSorte": null,
-    "premiacoes": [
-      {
-        "descricao": "6 acertos",
-        "faixa": 1,
-        "ganhadores": 0,
-        "valorPremio": 0.0
-      },
-      {
-        "descricao": "5 acertos",
-        "faixa": 2,
-        "ganhadores": 8,
-        "valorPremio": 5750.52
-      },
-      {
-        "descricao": "4 acertos",
-        "faixa": 3,
-        "ganhadores": 362,
-        "valorPremio": 145.23
-      },
-      {
-        "descricao": "3 acertos",
-        "faixa": 4,
-        "ganhadores": 6750,
-        "valorPremio": 3.89
-      },
-      {
-        "descricao": "6 acertos",
-        "faixa": 5,
-        "ganhadores": 0,
-        "valorPremio": 0.0
-      },
-      {
-        "descricao": "5 acertos",
-        "faixa": 6,
-        "ganhadores": 7,
-        "valorPremio": 5914.82
-      },
-      {
-        "descricao": "4 acertos",
-        "faixa": 7,
-        "ganhadores": 433,
-        "valorPremio": 121.42
-      },
-      {
-        "descricao": "3 acertos",
-        "faixa": 8,
-        "ganhadores": 8794,
-        "valorPremio": 2.98
-      }
-    ],
-    "estadosPremiados": [],
-    "observacao": "",
-    "acumulou": true,
-    "proximoConcurso": 2983,
-    "dataProximoConcurso": "15/07/2026",
-    "localGanhadores": [],
-    "valorArrecadado": 1500804.0,
-    "valorAcumuladoConcurso_0_5": 0.0,
-    "valorAcumuladoConcursoEspecial": 3919020.9,
-    "valorAcumuladoProximoConcurso": 825216.61,
-    "valorEstimadoProximoConcurso": 1000000.0
   }
 ]
