@@ -1,6 +1,67 @@
 [
   {
     "loteria": "quina",
+    "concurso": 7090,
+    "data": "12/08/2026",
+    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
+    "concursoEspecial": false,
+    "dezenasOrdemSorteio": [
+      "62",
+      "05",
+      "72",
+      "46",
+      "78"
+    ],
+    "dezenas": [
+      "05",
+      "46",
+      "62",
+      "72",
+      "78"
+    ],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "5 acertos",
+        "faixa": 1,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      },
+      {
+        "descricao": "4 acertos",
+        "faixa": 2,
+        "ganhadores": 39,
+        "valorPremio": 8655.45
+      },
+      {
+        "descricao": "3 acertos",
+        "faixa": 3,
+        "ganhadores": 2204,
+        "valorPremio": 145.86
+      },
+      {
+        "descricao": "2 acertos",
+        "faixa": 4,
+        "ganhadores": 59418,
+        "valorPremio": 5.41
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": true,
+    "proximoConcurso": 7091,
+    "dataProximoConcurso": "13/08/2026",
+    "localGanhadores": [],
+    "valorArrecadado": 7341588.0,
+    "valorAcumuladoConcurso_0_5": 2072685.12,
+    "valorAcumuladoConcursoEspecial": 16271304.52,
+    "valorAcumuladoProximoConcurso": 3742259.62,
+    "valorEstimadoProximoConcurso": 4600000.0
+  },
+  {
+    "loteria": "quina",
     "concurso": 7089,
     "data": "11/08/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
@@ -556,66 +617,5 @@
     "valorAcumuladoConcursoEspecial": 13124064.37,
     "valorAcumuladoProximoConcurso": 2021766.37,
     "valorEstimadoProximoConcurso": 3000000.0
-  },
-  {
-    "loteria": "quina",
-    "concurso": 7080,
-    "data": "31/07/2026",
-    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": false,
-    "dezenasOrdemSorteio": [
-      "19",
-      "02",
-      "49",
-      "39",
-      "24"
-    ],
-    "dezenas": [
-      "02",
-      "19",
-      "24",
-      "39",
-      "49"
-    ],
-    "trevos": [],
-    "timeCoracao": null,
-    "mesSorte": null,
-    "premiacoes": [
-      {
-        "descricao": "5 acertos",
-        "faixa": 1,
-        "ganhadores": 0,
-        "valorPremio": 0.0
-      },
-      {
-        "descricao": "4 acertos",
-        "faixa": 2,
-        "ganhadores": 29,
-        "valorPremio": 9847.59
-      },
-      {
-        "descricao": "3 acertos",
-        "faixa": 3,
-        "ganhadores": 3212,
-        "valorPremio": 84.67
-      },
-      {
-        "descricao": "2 acertos",
-        "faixa": 4,
-        "ganhadores": 71594,
-        "valorPremio": 3.79
-      }
-    ],
-    "estadosPremiados": [],
-    "observacao": "",
-    "acumulou": true,
-    "proximoConcurso": 7081,
-    "dataProximoConcurso": "01/08/2026",
-    "localGanhadores": [],
-    "valorArrecadado": 6211029.0,
-    "valorAcumuladoConcurso_0_5": 3084673.82,
-    "valorAcumuladoConcursoEspecial": 12784456.19,
-    "valorAcumuladoProximoConcurso": 1229347.31,
-    "valorEstimadoProximoConcurso": 2000000.0
   }
 ]
