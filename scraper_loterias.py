@@ -1,6 +1,6 @@
 """
 ===============================================================================
-SYNC LOTERIAS — LotoLab Brasil (Versão Multi-Fontes Integrada)
+SYNC LOTERIAS — LotoLab Brasil (Versão Definitiva Multi-Fontes + Merge)
 Parte 1: Setup, Configurações e Utilitários de Arquivo
 ===============================================================================
 """
@@ -184,7 +184,7 @@ def get_com_retry(url: str, verify: bool = True) -> Any | None:
         except requests.exceptions.ConnectionError:
             log.warning(f"🌐 Falha de conexão em {url} (tentativa {tentativa}/{MAX_RETRIES})")
         except requests.RequestException as erro:
-            log.warning(f"⚠️ Erro HTTP em {url}: {erro} (tentativa {tentativa}/{MAX_RETRIES})")
+            log.warning(f"⚠️️ Erro HTTP em {url}: {erro} (tentativa {tentativa}/{MAX_RETRIES})")
         except Exception as erro:
             log.warning(f"⚠️ Erro inesperado em {url}: {erro} (tentativa {tentativa}/{MAX_RETRIES})")
 
@@ -326,6 +326,25 @@ def resumir(jogo: dict) -> dict:
         "dezenas": jogo.get("dezenas", []),
     }
 
+def buscar_concurso_detalhado(loteria: str, numero: int) -> dict | None:
+    """Busca o concurso detalhado tentando Caixa e depois BrasilAPI."""
+    dados = fetch_caixa(loteria, numero)
+    if dados:
+        fmt = formatar_caixa(dados, loteria)
+        if fmt and fmt["concurso"] == numero:
+            return fmt
+
+    log.warning(f"⚠️ Caixa falhou para #{numero}. Buscando na BrasilAPI...")
+    url_ba = f"{BRASILAPI_URL}/{loteria}/{numero}"
+    dados_ba = get_com_retry(url_ba, verify=True)
+    if dados_ba:
+        fmt = normalizar_item_generico(dados_ba, loteria)
+        if fmt and fmt["concurso"] == numero:
+            log.info(f"✅ #{numero} recuperado via BrasilAPI.")
+            return fmt
+
+    return None
+
 # =============================================================================
 # OBTENÇÃO INTELIGENTE DO CONCURSO ATUAL (MULTIFONTES EM CASCATA)
 # =============================================================================
@@ -338,7 +357,7 @@ def obter_concurso_atual(loteria: str) -> tuple[int, dict | None]:
         if formatado and formatado["concurso"] > 0:
             return formatado["concurso"], formatado
 
-    log.warning("⚠️ Caixa indisponível. Tentando BrasilAPI...")
+    log.warning("⚠️️ Caixa indisponível. Tentando BrasilAPI...")
     dados_ba = fetch_brasilapi(loteria)
     if dados_ba:
         formatado = normalizar_item_generico(dados_ba, loteria)
@@ -357,6 +376,7 @@ def obter_concurso_atual(loteria: str) -> tuple[int, dict | None]:
                 return formatado["concurso"], formatado
 
     return 0, None
+
 """
 ===============================================================================
 Parte 3: Lógica Core, Sincronização e Main
@@ -369,24 +389,20 @@ Parte 3: Lógica Core, Sincronização e Main
 
 def obter_ultimos_10_robusto(loteria: str, concurso_atual: int) -> list[dict]:
     inicio = max(1, concurso_atual - ULTIMOS_QTD + 1)
-    log.info(f"🎯 Sincronizando últimos {ULTIMOS_QTD} da {loteria.upper()}: #{inicio} → #{concurso_atual}")
+    log.info(f"🎯 Sincronizando últimos {ULTIMOS_QTD} detalhados da {loteria.upper()}: #{inicio} → #{concurso_atual}")
 
     resultados: list[dict] = []
 
     for numero in range(concurso_atual, inicio - 1, -1):
-        dados = fetch_caixa(loteria, numero)
-        formatado = formatar_caixa(dados, loteria) if dados else None
-
-        if not formatado:
-            log.warning(f"⚠️ Caixa falhou para #{numero}. Buscando alternativas...")
-            time.sleep(0.3)
-            continue
-
-        resultados.append(formatado)
+        detalhado = buscar_concurso_detalhado(loteria, numero)
+        if detalhado:
+            resultados.append(detalhado)
+        else:
+            log.warning(f"⚠️ Todas as fontes falharam para #{numero}.")
+            
         time.sleep(DELAY_ENTRE_REQ)
 
-    resultados = deduplicar_por_concurso(resultados)
-    return resultados[:ULTIMOS_QTD]
+    return resultados
 
 def reconstruir_completo(loteria: str, concurso_mais_recente: int) -> list[dict]:
     log.info(f"🔁 Reconstruindo {loteria.upper()} do concurso 1 ao #{concurso_mais_recente}...")
@@ -512,11 +528,16 @@ def process_loteria(loteria: str) -> bool:
                 return False
             log.info(f"✅ Histórico atualizado com {len(novos)} novo(s).")
 
+    # Passo 5: Sincronização dos Últimos 10 (Com Mesclagem Inteligente)
     if VALIDAR_10_NA_CAIXA:
         ultimos_novos = obter_ultimos_10_robusto(loteria, concurso_atual)
-        if len(ultimos_novos) < ULTIMOS_QTD and len(ultimos_existentes) >= len(ultimos_novos):
-            ultimos_novos = ultimos_existentes
-        ultimos_finais = deduplicar_por_concurso(ultimos_novos)[:ULTIMOS_QTD]
+        
+        # Junta os dados recém-baixados com o cache antigo. 
+        # Garante que concursos não obtidos por instabilidade sejam preservados do cache.
+        mesclado = ultimos_novos + ultimos_existentes
+        
+        # Deduplica (mantendo sempre a versão mais recente) e corta nos 10
+        ultimos_finais = deduplicar_por_concurso(mesclado)[:ULTIMOS_QTD]
     else:
         ultimos_finais = [dict(item) for item in todos[:ULTIMOS_QTD]]
 
