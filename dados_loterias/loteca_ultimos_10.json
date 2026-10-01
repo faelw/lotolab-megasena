@@ -1,52 +1,512 @@
 [
   {
-    "concurso": 1235,
-    "data": "02/03/2026",
-    "dezenas": null
+    "loteria": "loteca",
+    "concurso": 1272,
+    "data": "28/09/2026",
+    "local": "",
+    "concursoEspecial": true,
+    "dezenasOrdemSorteio": [],
+    "dezenas": [],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "1º (14 acertos)",
+        "faixa": 1,
+        "ganhadores": 1,
+        "valorPremio": 1294441.38
+      },
+      {
+        "descricao": "2º (13 acertos)",
+        "faixa": 2,
+        "ganhadores": 13,
+        "valorPremio": 7613.49
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": false,
+    "proximoConcurso": 1273,
+    "dataProximoConcurso": "03/10/2026",
+    "localGanhadores": [
+      {
+        "ganhadores": 1,
+        "municipio": "SALVADOR",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "BA"
+      }
+    ],
+    "valorArrecadado": 2570788.0,
+    "valorAcumuladoConcurso_0_5": 298574.51,
+    "valorAcumuladoConcursoEspecial": 630726.95,
+    "valorAcumuladoProximoConcurso": 0.0,
+    "valorEstimadoProximoConcurso": 600000.0
   },
   {
-    "concurso": 1234,
-    "data": "23/02/2026",
-    "dezenas": null
+    "loteria": "loteca",
+    "concurso": 1271,
+    "data": "21/09/2026",
+    "local": "",
+    "concursoEspecial": true,
+    "dezenasOrdemSorteio": [],
+    "dezenas": [],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "1º (14 acertos)",
+        "faixa": 1,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      },
+      {
+        "descricao": "2º (13 acertos)",
+        "faixa": 2,
+        "ganhadores": 63,
+        "valorPremio": 1948.86
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": true,
+    "proximoConcurso": 1272,
+    "dataProximoConcurso": "26/09/2026",
+    "localGanhadores": [],
+    "valorArrecadado": 2232334.0,
+    "valorAcumuladoConcurso_0_5": 199599.17,
+    "valorAcumuladoConcursoEspecial": 531751.61,
+    "valorAcumuladoProximoConcurso": 601614.02,
+    "valorEstimadoProximoConcurso": 1500000.0
   },
   {
-    "concurso": 1233,
-    "data": "18/02/2026",
-    "dezenas": null
+    "loteria": "loteca",
+    "concurso": 1270,
+    "data": "14/09/2026",
+    "local": "",
+    "concursoEspecial": true,
+    "dezenasOrdemSorteio": [],
+    "dezenas": [],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "1º (14 acertos)",
+        "faixa": 1,
+        "ganhadores": 12,
+        "valorPremio": 189906.29
+      },
+      {
+        "descricao": "2º (13 acertos)",
+        "faixa": 2,
+        "ganhadores": 253,
+        "valorPremio": 641.75
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": false,
+    "proximoConcurso": 1271,
+    "dataProximoConcurso": "19/09/2026",
+    "localGanhadores": [
+      {
+        "ganhadores": 4,
+        "municipio": "CANAL ELETRONICO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "--"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "FEIRA DE SANTANA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "BA"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "BRASILIA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "DF"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "LUZIANIA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "GO"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "APIUNA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SC"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "BAURU",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "ITUPEVA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "MOGI DAS CRUZES",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "SAO PAULO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      }
+    ],
+    "valorArrecadado": 2952060.0,
+    "valorAcumuladoConcurso_0_5": 113654.31,
+    "valorAcumuladoConcursoEspecial": 445806.75,
+    "valorAcumuladoProximoConcurso": 0.0,
+    "valorEstimadoProximoConcurso": 600000.0
   },
   {
-    "concurso": 1232,
-    "data": "09/02/2026",
-    "dezenas": null
+    "loteria": "loteca",
+    "concurso": 1269,
+    "data": "08/09/2026",
+    "local": "",
+    "concursoEspecial": true,
+    "dezenasOrdemSorteio": [],
+    "dezenas": [],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "1º (14 acertos)",
+        "faixa": 1,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      },
+      {
+        "descricao": "2º (13 acertos)",
+        "faixa": 2,
+        "ganhadores": 4,
+        "valorPremio": 23578.48
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": true,
+    "proximoConcurso": 1270,
+    "dataProximoConcurso": "12/09/2026",
+    "localGanhadores": [],
+    "valorArrecadado": 2449712.0,
+    "valorAcumuladoConcurso_0_5": 332152.44,
+    "valorAcumuladoConcursoEspecial": 332152.44,
+    "valorAcumuladoProximoConcurso": 1483295.28,
+    "valorEstimadoProximoConcurso": 2000000.0
   },
   {
-    "concurso": 1231,
-    "data": "02/02/2026",
-    "dezenas": null
+    "loteria": "loteca",
+    "concurso": 1268,
+    "data": "31/08/2026",
+    "local": "",
+    "concursoEspecial": true,
+    "dezenasOrdemSorteio": [],
+    "dezenas": [],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "1º (14 acertos)",
+        "faixa": 1,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      },
+      {
+        "descricao": "2º (13 acertos)",
+        "faixa": 2,
+        "ganhadores": 47,
+        "valorPremio": 2131.76
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": true,
+    "proximoConcurso": 1269,
+    "dataProximoConcurso": "05/09/2026",
+    "localGanhadores": [],
+    "valorArrecadado": 1821690.0,
+    "valorAcumuladoConcurso_0_5": 237838.53,
+    "valorAcumuladoConcursoEspecial": 237838.53,
+    "valorAcumuladoProximoConcurso": 490945.46,
+    "valorEstimadoProximoConcurso": 1200000.0
   },
   {
-    "concurso": 1230,
-    "data": "26/01/2026",
-    "dezenas": null
+    "loteria": "loteca",
+    "concurso": 1267,
+    "data": "24/08/2026",
+    "local": "",
+    "concursoEspecial": true,
+    "dezenasOrdemSorteio": [],
+    "dezenas": [],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "1º (14 acertos)",
+        "faixa": 1,
+        "ganhadores": 2,
+        "valorPremio": 586962.11
+      },
+      {
+        "descricao": "2º (13 acertos)",
+        "faixa": 2,
+        "ganhadores": 41,
+        "valorPremio": 2257.98
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": false,
+    "proximoConcurso": 1268,
+    "dataProximoConcurso": "29/08/2026",
+    "localGanhadores": [
+      {
+        "ganhadores": 1,
+        "municipio": "TABATINGA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "AM"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "APIUNA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SC"
+      }
+    ],
+    "valorArrecadado": 2404604.0,
+    "valorAcumuladoConcurso_0_5": 167703.46,
+    "valorAcumuladoConcursoEspecial": 167703.46,
+    "valorAcumuladoProximoConcurso": 0.0,
+    "valorEstimadoProximoConcurso": 600000.0
   },
   {
-    "concurso": 1229,
-    "data": "19/01/2026",
-    "dezenas": null
+    "loteria": "loteca",
+    "concurso": 1266,
+    "data": "17/08/2026",
+    "local": "",
+    "concursoEspecial": true,
+    "dezenasOrdemSorteio": [],
+    "dezenas": [],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "1º (14 acertos)",
+        "faixa": 1,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      },
+      {
+        "descricao": "2º (13 acertos)",
+        "faixa": 2,
+        "ganhadores": 1,
+        "valorPremio": 75126.21
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "Em razão do adiamento da partida oficial, o resultado do jogo nº 11 - CELTA/ESP X OSASUNA/ESP, foi obtido por sorteio em 17/08/2026, realizado no Espaço da Sorte em São Paulo - SP às 17h.",
+    "acumulou": true,
+    "proximoConcurso": 1267,
+    "dataProximoConcurso": "22/08/2026",
+    "localGanhadores": [],
+    "valorArrecadado": 1951330.0,
+    "valorAcumuladoConcurso_0_5": 75126.21,
+    "valorAcumuladoConcursoEspecial": 75126.21,
+    "valorAcumuladoProximoConcurso": 525883.44,
+    "valorEstimadoProximoConcurso": 1200000.0
   },
   {
-    "concurso": 1228,
-    "data": "12/01/2026",
-    "dezenas": null
+    "loteria": "loteca",
+    "concurso": 1265,
+    "data": "10/08/2026",
+    "local": "",
+    "concursoEspecial": false,
+    "dezenasOrdemSorteio": [],
+    "dezenas": [],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "1º (14 acertos)",
+        "faixa": 1,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      },
+      {
+        "descricao": "2º (13 acertos)",
+        "faixa": 2,
+        "ganhadores": 6,
+        "valorPremio": 589492.34
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "Detalhamento das 6 apostas ganhadoras de 13 acertos:\n\n2 apostas ganhadoras no CANAL ELETRÔNICO, 1 aposta ganhadora em SORRISO/MT, 1 aposta ganhadora em CURITIBA/PR, 1 aposta ganhadora em CAMPINAS/SP e 1 aposta ganhadora em SÃO PAULO/SP.",
+    "acumulou": false,
+    "proximoConcurso": 1266,
+    "dataProximoConcurso": "15/08/2026",
+    "localGanhadores": [
+      {
+        "ganhadores": 2,
+        "municipio": "CANAL ELETRONICO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "--"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "SORRISO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MT"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "CURITIBA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "PR"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "CAMPINAS",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "SAO PAULO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      }
+    ],
+    "valorArrecadado": 4769522.0,
+    "valorAcumuladoConcurso_0_5": 0.0,
+    "valorAcumuladoConcursoEspecial": 0.0,
+    "valorAcumuladoProximoConcurso": 0.0,
+    "valorEstimadoProximoConcurso": 800000.0
   },
   {
-    "concurso": 1227,
-    "data": "05/01/2026",
-    "dezenas": null
+    "loteria": "loteca",
+    "concurso": 1264,
+    "data": "31/07/2026",
+    "local": "",
+    "concursoEspecial": true,
+    "dezenasOrdemSorteio": [],
+    "dezenas": [],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "1º (14 acertos)",
+        "faixa": 1,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      },
+      {
+        "descricao": "2º (13 acertos)",
+        "faixa": 2,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": true,
+    "proximoConcurso": 1265,
+    "dataProximoConcurso": "08/08/2026",
+    "localGanhadores": [],
+    "valorArrecadado": 1954602.0,
+    "valorAcumuladoConcurso_0_5": 357638.9,
+    "valorAcumuladoConcursoEspecial": 357638.9,
+    "valorAcumuladoProximoConcurso": 985410.27,
+    "valorEstimadoProximoConcurso": 3300000.0
   },
   {
-    "concurso": 1226,
-    "data": "29/12/2025",
-    "dezenas": null
+    "loteria": "loteca",
+    "concurso": 1263,
+    "data": "23/07/2026",
+    "local": "",
+    "concursoEspecial": true,
+    "dezenasOrdemSorteio": [],
+    "dezenas": [],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "1º (14 acertos)",
+        "faixa": 1,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      },
+      {
+        "descricao": "2º (13 acertos)",
+        "faixa": 2,
+        "ganhadores": 4,
+        "valorPremio": 13692.61
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": true,
+    "proximoConcurso": 1264,
+    "dataProximoConcurso": "25/07/2026",
+    "localGanhadores": [],
+    "valorArrecadado": 1422608.0,
+    "valorAcumuladoConcurso_0_5": 282386.72,
+    "valorAcumuladoConcursoEspecial": 282386.72,
+    "valorAcumuladoProximoConcurso": 383392.86,
+    "valorEstimadoProximoConcurso": 1200000.0
   }
 ]

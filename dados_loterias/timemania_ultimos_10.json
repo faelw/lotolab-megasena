@@ -4,14 +4,14 @@
     "concurso": 2448,
     "data": "29/09/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": false,
+    "concursoEspecial": true,
     "dezenasOrdemSorteio": [
-      "45",
-      "60",
-      "73",
-      "62",
-      "51",
       "32",
+      "45",
+      "51",
+      "60",
+      "62",
+      "73",
       "75"
     ],
     "dezenas": [
@@ -24,7 +24,7 @@
       "75"
     ],
     "trevos": [],
-    "timeCoracao": "INTERNACIONAL /RS",
+    "timeCoracao": null,
     "mesSorte": null,
     "premiacoes": [
       {
@@ -78,18 +78,95 @@
   },
   {
     "loteria": "timemania",
+    "concurso": 2447,
+    "data": "27/09/2026",
+    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
+    "concursoEspecial": true,
+    "dezenasOrdemSorteio": [
+      "01",
+      "10",
+      "20",
+      "25",
+      "30",
+      "33",
+      "34"
+    ],
+    "dezenas": [
+      "01",
+      "10",
+      "20",
+      "25",
+      "30",
+      "33",
+      "34"
+    ],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "7 acertos",
+        "faixa": 1,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      },
+      {
+        "descricao": "6 acertos",
+        "faixa": 2,
+        "ganhadores": 4,
+        "valorPremio": 35641.27
+      },
+      {
+        "descricao": "5 acertos",
+        "faixa": 3,
+        "ganhadores": 209,
+        "valorPremio": 974.47
+      },
+      {
+        "descricao": "4 acertos",
+        "faixa": 4,
+        "ganhadores": 3346,
+        "valorPremio": 10.5
+      },
+      {
+        "descricao": "3 acertos",
+        "faixa": 5,
+        "ganhadores": 28736,
+        "valorPremio": 3.5
+      },
+      {
+        "descricao": "Time do Coração",
+        "faixa": 6,
+        "ganhadores": 20260,
+        "valorPremio": 8.5
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": true,
+    "proximoConcurso": 2448,
+    "dataProximoConcurso": "29/09/2026",
+    "localGanhadores": [],
+    "valorArrecadado": 2652482.0,
+    "valorAcumuladoConcurso_0_5": 239266.34,
+    "valorAcumuladoConcursoEspecial": 0.0,
+    "valorAcumuladoProximoConcurso": 16361433.49,
+    "valorEstimadoProximoConcurso": 16800000.0
+  },
+  {
+    "loteria": "timemania",
     "concurso": 2446,
     "data": "24/09/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": false,
+    "concursoEspecial": true,
     "dezenasOrdemSorteio": [
-      "44",
       "14",
-      "39",
+      "18",
       "30",
-      "76",
+      "39",
+      "44",
       "52",
-      "18"
+      "76"
     ],
     "dezenas": [
       "14",
@@ -101,7 +178,7 @@
       "76"
     ],
     "trevos": [],
-    "timeCoracao": "CRB /AL",
+    "timeCoracao": null,
     "mesSorte": null,
     "premiacoes": [
       {
@@ -158,15 +235,15 @@
     "concurso": 2445,
     "data": "22/09/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": false,
+    "concursoEspecial": true,
     "dezenasOrdemSorteio": [
-      "57",
-      "76",
-      "40",
-      "62",
+      "07",
       "18",
+      "40",
       "46",
-      "07"
+      "57",
+      "62",
+      "76"
     ],
     "dezenas": [
       "07",
@@ -178,7 +255,7 @@
       "76"
     ],
     "trevos": [],
-    "timeCoracao": "VOLTA REDONDA /RJ",
+    "timeCoracao": null,
     "mesSorte": null,
     "premiacoes": [
       {
@@ -235,15 +312,15 @@
     "concurso": 2444,
     "data": "20/09/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": false,
+    "concursoEspecial": true,
     "dezenasOrdemSorteio": [
-      "21",
-      "62",
-      "44",
-      "74",
       "11",
+      "21",
+      "44",
+      "62",
+      "64",
       "69",
-      "64"
+      "74"
     ],
     "dezenas": [
       "11",
@@ -255,7 +332,7 @@
       "74"
     ],
     "trevos": [],
-    "timeCoracao": "SAO BERNARDO /SP",
+    "timeCoracao": null,
     "mesSorte": null,
     "premiacoes": [
       {
@@ -312,15 +389,15 @@
     "concurso": 2443,
     "data": "17/09/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": false,
+    "concursoEspecial": true,
     "dezenasOrdemSorteio": [
-      "54",
-      "10",
-      "49",
       "05",
+      "10",
+      "17",
       "23",
       "40",
-      "17"
+      "49",
+      "54"
     ],
     "dezenas": [
       "05",
@@ -332,7 +409,7 @@
       "54"
     ],
     "trevos": [],
-    "timeCoracao": "CORINTHIANS /SP",
+    "timeCoracao": null,
     "mesSorte": null,
     "premiacoes": [
       {
@@ -389,15 +466,15 @@
     "concurso": 2442,
     "data": "15/09/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": false,
+    "concursoEspecial": true,
     "dezenasOrdemSorteio": [
-      "58",
-      "80",
-      "42",
-      "75",
-      "47",
+      "26",
       "40",
-      "26"
+      "42",
+      "47",
+      "58",
+      "75",
+      "80"
     ],
     "dezenas": [
       "26",
@@ -409,7 +486,7 @@
       "80"
     ],
     "trevos": [],
-    "timeCoracao": "BRASILIENSE /DF",
+    "timeCoracao": null,
     "mesSorte": null,
     "premiacoes": [
       {
@@ -466,13 +543,13 @@
     "concurso": 2441,
     "data": "13/09/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": false,
+    "concursoEspecial": true,
     "dezenasOrdemSorteio": [
+      "01",
+      "02",
       "08",
       "10",
       "56",
-      "02",
-      "01",
       "70",
       "80"
     ],
@@ -486,7 +563,7 @@
       "80"
     ],
     "trevos": [],
-    "timeCoracao": "CSA /AL",
+    "timeCoracao": null,
     "mesSorte": null,
     "premiacoes": [
       {
@@ -543,14 +620,14 @@
     "concurso": 2440,
     "data": "10/09/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": false,
+    "concursoEspecial": true,
     "dezenasOrdemSorteio": [
-      "51",
-      "68",
-      "45",
       "20",
-      "77",
+      "45",
+      "51",
       "65",
+      "68",
+      "77",
       "80"
     ],
     "dezenas": [
@@ -563,7 +640,7 @@
       "80"
     ],
     "trevos": [],
-    "timeCoracao": "VOLTA REDONDA /RJ",
+    "timeCoracao": null,
     "mesSorte": null,
     "premiacoes": [
       {
@@ -620,15 +697,15 @@
     "concurso": 2439,
     "data": "08/09/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": false,
+    "concursoEspecial": true,
     "dezenasOrdemSorteio": [
-      "54",
-      "53",
       "01",
       "18",
-      "57",
+      "38",
       "50",
-      "38"
+      "53",
+      "54",
+      "57"
     ],
     "dezenas": [
       "01",
@@ -640,7 +717,7 @@
       "57"
     ],
     "trevos": [],
-    "timeCoracao": "ALTOS /PI",
+    "timeCoracao": null,
     "mesSorte": null,
     "premiacoes": [
       {
@@ -691,82 +768,5 @@
     "valorAcumuladoConcursoEspecial": 0.0,
     "valorAcumuladoProximoConcurso": 12654632.04,
     "valorEstimadoProximoConcurso": 13000000.0
-  },
-  {
-    "loteria": "timemania",
-    "concurso": 2438,
-    "data": "06/09/2026",
-    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": false,
-    "dezenasOrdemSorteio": [
-      "27",
-      "66",
-      "07",
-      "80",
-      "36",
-      "31",
-      "73"
-    ],
-    "dezenas": [
-      "07",
-      "27",
-      "31",
-      "36",
-      "66",
-      "73",
-      "80"
-    ],
-    "trevos": [],
-    "timeCoracao": "VASCO DA GAMA /RJ",
-    "mesSorte": null,
-    "premiacoes": [
-      {
-        "descricao": "7 acertos",
-        "faixa": 1,
-        "ganhadores": 0,
-        "valorPremio": 0.0
-      },
-      {
-        "descricao": "6 acertos",
-        "faixa": 2,
-        "ganhadores": 1,
-        "valorPremio": 147543.76
-      },
-      {
-        "descricao": "5 acertos",
-        "faixa": 3,
-        "ganhadores": 124,
-        "valorPremio": 1699.81
-      },
-      {
-        "descricao": "4 acertos",
-        "faixa": 4,
-        "ganhadores": 2637,
-        "valorPremio": 10.5
-      },
-      {
-        "descricao": "3 acertos",
-        "faixa": 5,
-        "ganhadores": 26394,
-        "valorPremio": 3.5
-      },
-      {
-        "descricao": "Time do Coração",
-        "faixa": 6,
-        "ganhadores": 19057,
-        "valorPremio": 8.5
-      }
-    ],
-    "estadosPremiados": [],
-    "observacao": "",
-    "acumulou": true,
-    "proximoConcurso": 2439,
-    "dataProximoConcurso": "08/09/2026",
-    "localGanhadores": [],
-    "valorArrecadado": 2671872.0,
-    "valorAcumuladoConcurso_0_5": 280075.33,
-    "valorAcumuladoConcursoEspecial": 0.0,
-    "valorAcumuladoProximoConcurso": 11975374.01,
-    "valorEstimadoProximoConcurso": 12500000.0
   }
 ]
