@@ -152,8 +152,13 @@ def formatar_caixa(dados_caixa: dict, loteria: str) -> dict | None:
     loc_str, mun_str = dados_caixa.get("localSorteio", ""), dados_caixa.get("nomeMunicipioUFSorteio", "")
     dezenas = [str(d).zfill(2) for d in (dados_caixa.get("listaDezenas") or [])]
     
-    # CORREÇÃO TREVOS: A Caixa utiliza 'listaDezenasTrevos' para a +Milionária
-    trevos_brutos = dados_caixa.get("trevos") or dados_caixa.get("listaDezenasTrevos") or []
+    # CORREÇÃO TREVOS: A Caixa utiliza 'trevosSorteados' ou 'listaDezenasTrevos' para a +Milionária
+    trevos_brutos = (
+        dados_caixa.get("trevosSorteados") or 
+        dados_caixa.get("trevos") or 
+        dados_caixa.get("listaDezenasTrevos") or 
+        []
+    )
     trevos = [str(t).zfill(2) for t in trevos_brutos]
 
     return {
@@ -195,13 +200,26 @@ def normalizar_item_generico(item: dict, loteria: str) -> dict | None:
     copia["dezenasOrdemSorteio"] = [str(d).zfill(2) for d in ordem] if isinstance(ordem, list) else copia["dezenas"]
     
     # CORREÇÃO TREVOS: Garante extração robusta se usar a API de backup (Heroku)
-    trv = copia.get("trevos") or copia.get("listaDezenasTrevos") or copia.get("trevosSorteados") or []
+    trv = (
+        copia.get("trevosSorteados") or 
+        copia.get("trevos") or 
+        copia.get("listaDezenasTrevos") or 
+        []
+    )
     copia["trevos"] = [str(t).zfill(2) for t in trv] if isinstance(trv, list) else []
     
     return copia
 
 def resumir(jogo: dict) -> dict:
-    return {"concurso": numero_concurso(jogo.get("concurso")), "data": jogo.get("data", ""), "dezenas": jogo.get("dezenas", [])}
+    # CORREÇÃO: Preservar os trevos ao criar a versão resumida do histórico
+    resumo = {
+        "concurso": numero_concurso(jogo.get("concurso")), 
+        "data": jogo.get("data", ""), 
+        "dezenas": jogo.get("dezenas", [])
+    }
+    if jogo.get("trevos"):
+        resumo["trevos"] = jogo.get("trevos")
+    return resumo
 
 def obter_concurso_atual(loteria: str) -> tuple[int, dict | None]:
     log.info("📡 Buscando concurso oficial na Caixa...")
