@@ -1,7 +1,7 @@
 """
 ===============================================================================
 SYNC LOTERIAS — LotoLab Brasil (Versão Definitiva: Injeção Direta Anti-Block)
-Parte 1: Setup, Configurações e Utilitários de Arquivo
+Script Completo: Setup, Normalização (Correção Super Sete e +Milionária) e Core
 ===============================================================================
 """
 
@@ -106,11 +106,10 @@ def salvar_json(caminho: str, dados: list, indent: int | None = None) -> bool:
     except Exception as erro:
         log.error(f"❌ Erro ao salvar {caminho}: {erro}")
         return False
-"""
-===============================================================================
-Parte 2: HTTP, Requisições e Normalização de Dados
-===============================================================================
-"""
+
+# =============================================================================
+# HTTP, REQUIÇÕES E NORMALIZAÇÃO DE DADOS
+# =============================================================================
 
 def get_com_retry(url: str, verify: bool = True) -> Any | None:
     for tentativa in range(1, MAX_RETRIES + 1):
@@ -152,13 +151,19 @@ def formatar_caixa(dados_caixa: dict, loteria: str) -> dict | None:
 
     loc_str, mun_str = dados_caixa.get("localSorteio", ""), dados_caixa.get("nomeMunicipioUFSorteio", "")
     dezenas = [str(d).zfill(2) for d in (dados_caixa.get("listaDezenas") or [])]
+    
+    # CORREÇÃO TREVOS: A Caixa utiliza 'listaDezenasTrevos' para a +Milionária
+    trevos_brutos = dados_caixa.get("trevos") or dados_caixa.get("listaDezenasTrevos") or []
+    trevos = [str(t).zfill(2) for t in trevos_brutos]
 
     return {
         "loteria": loteria, "concurso": concurso, "data": dados_caixa.get("dataApuracao", ""),
         "local": f"{loc_str} em {mun_str}" if loc_str and mun_str else loc_str,
         "concursoEspecial": dados_caixa.get("indicadorConcursoEspecial") == 1,
-        "dezenasOrdemSorteio": dezenas, "dezenas": sorted(dezenas),
-        "trevos": dados_caixa.get("trevos", []), "timeCoracao": dados_caixa.get("nomeTimeCoracao"),
+        "dezenasOrdemSorteio": dezenas, 
+        "dezenas": dezenas if loteria == "supersete" else sorted(dezenas), # CORREÇÃO SUPER SETE
+        "trevos": trevos,
+        "timeCoracao": dados_caixa.get("nomeTimeCoracao"),
         "mesSorte": dados_caixa.get("mesSorte"), "premiacoes": premiacoes,
         "estadosPremiados": [], "observacao": dados_caixa.get("observacao", ""),
         "acumulou": dados_caixa.get("acumulado", False),
@@ -179,11 +184,20 @@ def normalizar_item_generico(item: dict, loteria: str) -> dict | None:
     copia = dict(item)
     copia["concurso"] = concurso
     copia["loteria"] = copia.get("loteria") or loteria
+    
     dez = copia.get("dezenas") or copia.get("listaDezenas") or []
-    copia["dezenas"] = sorted([str(d).zfill(2) for d in dez]) if isinstance(dez, list) else []
+    dez_str = [str(d).zfill(2) for d in dez] if isinstance(dez, list) else []
+    
+    # CORREÇÃO SUPER SETE
+    copia["dezenas"] = dez_str if loteria == "supersete" else sorted(dez_str)
     
     ordem = copia.get("dezenasOrdemSorteio")
     copia["dezenasOrdemSorteio"] = [str(d).zfill(2) for d in ordem] if isinstance(ordem, list) else copia["dezenas"]
+    
+    # CORREÇÃO TREVOS: Garante extração robusta se usar a API de backup (Heroku)
+    trv = copia.get("trevos") or copia.get("listaDezenasTrevos") or copia.get("trevosSorteados") or []
+    copia["trevos"] = [str(t).zfill(2) for t in trv] if isinstance(trv, list) else []
+    
     return copia
 
 def resumir(jogo: dict) -> dict:
@@ -204,11 +218,10 @@ def obter_concurso_atual(loteria: str) -> tuple[int, dict | None]:
             fmt = normalizar_item_generico(ordenado[0], loteria)
             if fmt and fmt["concurso"] > 0: return fmt["concurso"], fmt
     return 0, None
-"""
-===============================================================================
-Parte 3: Lógica Core, Injeção Direta e Main
-===============================================================================
-"""
+
+# =============================================================================
+# LÓGICA CORE, INJEÇÃO DIRETA E MAIN
+# =============================================================================
 
 def reconstruir_completo(loteria: str, concurso_mais_recente: int) -> list[dict]:
     log.info(f"🔁 Reconstruindo {loteria.upper()} do 1 ao #{concurso_mais_recente}...")
