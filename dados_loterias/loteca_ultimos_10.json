@@ -1,6 +1,204 @@
 [
   {
     "loteria": "loteca",
+    "concurso": 1273,
+    "data": "05/10/2026",
+    "local": "",
+    "concursoEspecial": true,
+    "dezenasOrdemSorteio": [],
+    "dezenas": [],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "1º (14 acertos)",
+        "faixa": 1,
+        "ganhadores": 257,
+        "valorPremio": 2797.37
+      },
+      {
+        "descricao": "2º (13 acertos)",
+        "faixa": 2,
+        "ganhadores": 4194,
+        "valorPremio": 34.98
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": false,
+    "proximoConcurso": 1274,
+    "dataProximoConcurso": "10/10/2026",
+    "localGanhadores": [
+      {
+        "ganhadores": 123,
+        "municipio": "CANAL ELETRONICO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "--"
+      },
+      {
+        "ganhadores": 2,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "AM"
+      },
+      {
+        "ganhadores": 10,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "BA"
+      },
+      {
+        "ganhadores": 2,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "CE"
+      },
+      {
+        "ganhadores": 3,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "DF"
+      },
+      {
+        "ganhadores": 3,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "ES"
+      },
+      {
+        "ganhadores": 8,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "GO"
+      },
+      {
+        "ganhadores": 17,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MG"
+      },
+      {
+        "ganhadores": 2,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MS"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MT"
+      },
+      {
+        "ganhadores": 5,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "PA"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "PB"
+      },
+      {
+        "ganhadores": 3,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "PE"
+      },
+      {
+        "ganhadores": 11,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "PR"
+      },
+      {
+        "ganhadores": 11,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "RJ"
+      },
+      {
+        "ganhadores": 2,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "RN"
+      },
+      {
+        "ganhadores": 3,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "RS"
+      },
+      {
+        "ganhadores": 7,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SC"
+      },
+      {
+        "ganhadores": 41,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      },
+      {
+        "ganhadores": 2,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "TO"
+      }
+    ],
+    "valorArrecadado": 2667626.0,
+    "valorAcumuladoConcurso_0_5": 401278.11,
+    "valorAcumuladoConcursoEspecial": 733430.55,
+    "valorAcumuladoProximoConcurso": 0.0,
+    "valorEstimadoProximoConcurso": 600000.0
+  },
+  {
+    "loteria": "loteca",
     "concurso": 1272,
     "data": "28/09/2026",
     "local": "",
@@ -471,42 +669,5 @@
     "valorAcumuladoConcursoEspecial": 357638.9,
     "valorAcumuladoProximoConcurso": 985410.27,
     "valorEstimadoProximoConcurso": 3300000.0
-  },
-  {
-    "loteria": "loteca",
-    "concurso": 1263,
-    "data": "23/07/2026",
-    "local": "",
-    "concursoEspecial": true,
-    "dezenasOrdemSorteio": [],
-    "dezenas": [],
-    "trevos": [],
-    "timeCoracao": null,
-    "mesSorte": null,
-    "premiacoes": [
-      {
-        "descricao": "1º (14 acertos)",
-        "faixa": 1,
-        "ganhadores": 0,
-        "valorPremio": 0.0
-      },
-      {
-        "descricao": "2º (13 acertos)",
-        "faixa": 2,
-        "ganhadores": 4,
-        "valorPremio": 13692.61
-      }
-    ],
-    "estadosPremiados": [],
-    "observacao": "",
-    "acumulou": true,
-    "proximoConcurso": 1264,
-    "dataProximoConcurso": "25/07/2026",
-    "localGanhadores": [],
-    "valorArrecadado": 1422608.0,
-    "valorAcumuladoConcurso_0_5": 282386.72,
-    "valorAcumuladoConcursoEspecial": 282386.72,
-    "valorAcumuladoProximoConcurso": 383392.86,
-    "valorEstimadoProximoConcurso": 1200000.0
   }
 ]
