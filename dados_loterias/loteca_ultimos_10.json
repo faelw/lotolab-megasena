@@ -1,6 +1,204 @@
 [
   {
     "loteria": "loteca",
+    "concurso": 1274,
+    "data": "13/10/2026",
+    "local": "",
+    "concursoEspecial": true,
+    "dezenasOrdemSorteio": [],
+    "dezenas": [],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "1º (14 acertos)",
+        "faixa": 1,
+        "ganhadores": 31,
+        "valorPremio": 23338.17
+      },
+      {
+        "descricao": "2º (13 acertos)",
+        "faixa": 2,
+        "ganhadores": 1253,
+        "valorPremio": 117.83
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": false,
+    "proximoConcurso": 1275,
+    "dataProximoConcurso": "17/10/2026",
+    "localGanhadores": [
+      {
+        "ganhadores": 9,
+        "municipio": "CANAL ELETRONICO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "--"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "SAO LUIS",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MA"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "JUIZ DE FORA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MG"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "MAMONAS",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MG"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "TRES PONTAS",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MG"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "SORRISO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MT"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "IPORA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "PR"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "MAGE",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "RJ"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "PARACAMBI",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "RJ"
+      },
+      {
+        "ganhadores": 2,
+        "municipio": "RIO DE JANEIRO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "RJ"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "PASSO FUNDO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "RS"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "PORTO ALEGRE",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "RS"
+      },
+      {
+        "ganhadores": 2,
+        "municipio": "APIUNA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SC"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "ARARANGUA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SC"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "ARACAJU",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SE"
+      },
+      {
+        "ganhadores": 2,
+        "municipio": "BAURU",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "HORTOLANDIA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "OSASCO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "RIBEIRAO PRETO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "RIO CLARO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      }
+    ],
+    "valorArrecadado": 2684538.0,
+    "valorAcumuladoConcurso_0_5": 504632.83,
+    "valorAcumuladoConcursoEspecial": 836785.26,
+    "valorAcumuladoProximoConcurso": 504632.83,
+    "valorEstimadoProximoConcurso": 1500000.0
+  },
+  {
+    "loteria": "loteca",
     "concurso": 1273,
     "data": "05/10/2026",
     "local": "",
@@ -632,42 +830,5 @@
     "valorAcumuladoConcursoEspecial": 0.0,
     "valorAcumuladoProximoConcurso": 0.0,
     "valorEstimadoProximoConcurso": 800000.0
-  },
-  {
-    "loteria": "loteca",
-    "concurso": 1264,
-    "data": "31/07/2026",
-    "local": "",
-    "concursoEspecial": true,
-    "dezenasOrdemSorteio": [],
-    "dezenas": [],
-    "trevos": [],
-    "timeCoracao": null,
-    "mesSorte": null,
-    "premiacoes": [
-      {
-        "descricao": "1º (14 acertos)",
-        "faixa": 1,
-        "ganhadores": 0,
-        "valorPremio": 0.0
-      },
-      {
-        "descricao": "2º (13 acertos)",
-        "faixa": 2,
-        "ganhadores": 0,
-        "valorPremio": 0.0
-      }
-    ],
-    "estadosPremiados": [],
-    "observacao": "",
-    "acumulou": true,
-    "proximoConcurso": 1265,
-    "dataProximoConcurso": "08/08/2026",
-    "localGanhadores": [],
-    "valorArrecadado": 1954602.0,
-    "valorAcumuladoConcurso_0_5": 357638.9,
-    "valorAcumuladoConcursoEspecial": 357638.9,
-    "valorAcumuladoProximoConcurso": 985410.27,
-    "valorEstimadoProximoConcurso": 3300000.0
   }
 ]
