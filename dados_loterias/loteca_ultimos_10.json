@@ -1,6 +1,244 @@
 [
   {
     "loteria": "loteca",
+    "concurso": 1275,
+    "data": "19/10/2026",
+    "local": "",
+    "concursoEspecial": true,
+    "dezenasOrdemSorteio": [],
+    "dezenas": [],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "1º (14 acertos)",
+        "faixa": 1,
+        "ganhadores": 56,
+        "valorPremio": 25316.94
+      },
+      {
+        "descricao": "2º (13 acertos)",
+        "faixa": 2,
+        "ganhadores": 1069,
+        "valorPremio": 174.32
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": false,
+    "proximoConcurso": 1276,
+    "dataProximoConcurso": "20/10/2026",
+    "localGanhadores": [
+      {
+        "ganhadores": 26,
+        "municipio": "CANAL ELETRONICO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "--"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "BRASILIA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "DF"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "DOM PEDRO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MA"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "BELO HORIZONTE",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MG"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "CONTAGEM",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MG"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "NOVORIZONTE",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MG"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "ALMIRANTE TAMANDARE",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "PR"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "CURITIBA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "PR"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "RIO DE JANEIRO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "RJ"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "TERESOPOLIS",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "RJ"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "VOLTA REDONDA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "RJ"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "NATAL",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "RN"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "PORTO ALEGRE",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "RS"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "SANTA MARIA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "RS"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "BAURU",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "IBITINGA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "ITUPEVA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "MIRASSOL",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      },
+      {
+        "ganhadores": 2,
+        "municipio": "SANTOS",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      },
+      {
+        "ganhadores": 2,
+        "municipio": "SAO BERNARDO DO CAMPO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "SAO CAETANO DO SUL",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "SAO JOSE DO RIO PRETO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      },
+      {
+        "ganhadores": 2,
+        "municipio": "SAO JOSE DOS CAMPOS",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      },
+      {
+        "ganhadores": 4,
+        "municipio": "SAO PAULO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "SOROCABA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      }
+    ],
+    "valorArrecadado": 3388184.0,
+    "valorAcumuladoConcurso_0_5": 130445.09,
+    "valorAcumuladoConcursoEspecial": 967230.35,
+    "valorAcumuladoProximoConcurso": 0.0,
+    "valorEstimadoProximoConcurso": 300000.0
+  },
+  {
+    "loteria": "loteca",
     "concurso": 1274,
     "data": "13/10/2026",
     "local": "",
@@ -752,83 +990,5 @@
     "valorAcumuladoConcursoEspecial": 75126.21,
     "valorAcumuladoProximoConcurso": 525883.44,
     "valorEstimadoProximoConcurso": 1200000.0
-  },
-  {
-    "loteria": "loteca",
-    "concurso": 1265,
-    "data": "10/08/2026",
-    "local": "",
-    "concursoEspecial": false,
-    "dezenasOrdemSorteio": [],
-    "dezenas": [],
-    "trevos": [],
-    "timeCoracao": null,
-    "mesSorte": null,
-    "premiacoes": [
-      {
-        "descricao": "1º (14 acertos)",
-        "faixa": 1,
-        "ganhadores": 0,
-        "valorPremio": 0.0
-      },
-      {
-        "descricao": "2º (13 acertos)",
-        "faixa": 2,
-        "ganhadores": 6,
-        "valorPremio": 589492.34
-      }
-    ],
-    "estadosPremiados": [],
-    "observacao": "Detalhamento das 6 apostas ganhadoras de 13 acertos:\n\n2 apostas ganhadoras no CANAL ELETRÔNICO, 1 aposta ganhadora em SORRISO/MT, 1 aposta ganhadora em CURITIBA/PR, 1 aposta ganhadora em CAMPINAS/SP e 1 aposta ganhadora em SÃO PAULO/SP.",
-    "acumulou": false,
-    "proximoConcurso": 1266,
-    "dataProximoConcurso": "15/08/2026",
-    "localGanhadores": [
-      {
-        "ganhadores": 2,
-        "municipio": "CANAL ELETRONICO",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "--"
-      },
-      {
-        "ganhadores": 1,
-        "municipio": "SORRISO",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "MT"
-      },
-      {
-        "ganhadores": 1,
-        "municipio": "CURITIBA",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "PR"
-      },
-      {
-        "ganhadores": 1,
-        "municipio": "CAMPINAS",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "SP"
-      },
-      {
-        "ganhadores": 1,
-        "municipio": "SAO PAULO",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "SP"
-      }
-    ],
-    "valorArrecadado": 4769522.0,
-    "valorAcumuladoConcurso_0_5": 0.0,
-    "valorAcumuladoConcursoEspecial": 0.0,
-    "valorAcumuladoProximoConcurso": 0.0,
-    "valorEstimadoProximoConcurso": 800000.0
   }
 ]
