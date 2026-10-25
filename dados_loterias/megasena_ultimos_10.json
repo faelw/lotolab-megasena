@@ -1,6 +1,63 @@
 [
   {
     "loteria": "megasena",
+    "concurso": 3074,
+    "data": "24/10/2026",
+    "local": "ESPAÇO DA SORTE em SÃO PAULO,  SP",
+    "concursoEspecial": true,
+    "dezenasOrdemSorteio": [
+      "02",
+      "03",
+      "20",
+      "25",
+      "39",
+      "57"
+    ],
+    "dezenas": [
+      "02",
+      "03",
+      "20",
+      "25",
+      "39",
+      "57"
+    ],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "6 acertos",
+        "faixa": 1,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      },
+      {
+        "descricao": "5 acertos",
+        "faixa": 2,
+        "ganhadores": 175,
+        "valorPremio": 30318.56
+      },
+      {
+        "descricao": "4 acertos",
+        "faixa": 3,
+        "ganhadores": 11643,
+        "valorPremio": 651.0
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": true,
+    "proximoConcurso": 3075,
+    "dataProximoConcurso": "26/10/2026",
+    "localGanhadores": [],
+    "valorArrecadado": 173090658.0,
+    "valorAcumuladoConcurso_0_5": 280018050.13,
+    "valorAcumuladoConcursoEspecial": 121123441.55,
+    "valorAcumuladoProximoConcurso": 280018050.13,
+    "valorEstimadoProximoConcurso": 300000000.0
+  },
+  {
+    "loteria": "megasena",
     "concurso": 3073,
     "data": "22/10/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
@@ -511,62 +568,5 @@
     "valorAcumuladoConcursoEspecial": 83732931.71,
     "valorAcumuladoProximoConcurso": 72267592.25,
     "valorEstimadoProximoConcurso": 82000000.0
-  },
-  {
-    "loteria": "megasena",
-    "concurso": 3064,
-    "data": "29/09/2026",
-    "local": "ESPAÇO DA SORTE em SÃO PAULO,  SP",
-    "concursoEspecial": true,
-    "dezenasOrdemSorteio": [
-      "04",
-      "10",
-      "20",
-      "25",
-      "27",
-      "48"
-    ],
-    "dezenas": [
-      "04",
-      "10",
-      "20",
-      "25",
-      "27",
-      "48"
-    ],
-    "trevos": [],
-    "timeCoracao": null,
-    "mesSorte": null,
-    "premiacoes": [
-      {
-        "descricao": "6 acertos",
-        "faixa": 1,
-        "ganhadores": 0,
-        "valorPremio": 0.0
-      },
-      {
-        "descricao": "5 acertos",
-        "faixa": 2,
-        "ganhadores": 82,
-        "valorPremio": 24039.44
-      },
-      {
-        "descricao": "4 acertos",
-        "faixa": 3,
-        "ganhadores": 4467,
-        "valorPremio": 727.39
-      }
-    ],
-    "estadosPremiados": [],
-    "observacao": "",
-    "acumulou": true,
-    "proximoConcurso": 3065,
-    "dataProximoConcurso": "01/10/2026",
-    "localGanhadores": [],
-    "valorArrecadado": 49467708.0,
-    "valorAcumuladoConcurso_0_5": 65108665.02,
-    "valorAcumuladoConcursoEspecial": 81943199.89,
-    "valorAcumuladoProximoConcurso": 65108665.02,
-    "valorEstimadoProximoConcurso": 75000000.0
   }
 ]
