@@ -1,6 +1,43 @@
 [
   {
     "loteria": "loteca",
+    "concurso": 1277,
+    "data": "26/10/2026",
+    "local": "",
+    "concursoEspecial": true,
+    "dezenasOrdemSorteio": [],
+    "dezenas": [],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "1º (14 acertos)",
+        "faixa": 1,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      },
+      {
+        "descricao": "2º (13 acertos)",
+        "faixa": 2,
+        "ganhadores": 10,
+        "valorPremio": 8774.03
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": true,
+    "proximoConcurso": 1278,
+    "dataProximoConcurso": "28/10/2026",
+    "localGanhadores": [],
+    "valorArrecadado": 2278968.0,
+    "valorAcumuladoConcurso_0_5": 258069.05,
+    "valorAcumuladoConcursoEspecial": 1094854.3,
+    "valorAcumuladoProximoConcurso": 893367.71,
+    "valorEstimadoProximoConcurso": 1400000.0
+  },
+  {
+    "loteria": "loteca",
     "concurso": 1276,
     "data": "21/10/2026",
     "local": "",
@@ -936,59 +973,5 @@
     "valorAcumuladoConcursoEspecial": 237838.53,
     "valorAcumuladoProximoConcurso": 490945.46,
     "valorEstimadoProximoConcurso": 1200000.0
-  },
-  {
-    "loteria": "loteca",
-    "concurso": 1267,
-    "data": "24/08/2026",
-    "local": "",
-    "concursoEspecial": true,
-    "dezenasOrdemSorteio": [],
-    "dezenas": [],
-    "trevos": [],
-    "timeCoracao": null,
-    "mesSorte": null,
-    "premiacoes": [
-      {
-        "descricao": "1º (14 acertos)",
-        "faixa": 1,
-        "ganhadores": 2,
-        "valorPremio": 586962.11
-      },
-      {
-        "descricao": "2º (13 acertos)",
-        "faixa": 2,
-        "ganhadores": 41,
-        "valorPremio": 2257.98
-      }
-    ],
-    "estadosPremiados": [],
-    "observacao": "",
-    "acumulou": false,
-    "proximoConcurso": 1268,
-    "dataProximoConcurso": "29/08/2026",
-    "localGanhadores": [
-      {
-        "ganhadores": 1,
-        "municipio": "TABATINGA",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "AM"
-      },
-      {
-        "ganhadores": 1,
-        "municipio": "APIUNA",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "SC"
-      }
-    ],
-    "valorArrecadado": 2404604.0,
-    "valorAcumuladoConcurso_0_5": 167703.46,
-    "valorAcumuladoConcursoEspecial": 167703.46,
-    "valorAcumuladoProximoConcurso": 0.0,
-    "valorEstimadoProximoConcurso": 600000.0
   }
 ]
