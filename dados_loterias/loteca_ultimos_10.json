@@ -1,6 +1,68 @@
 [
   {
     "loteria": "loteca",
+    "concurso": 1279,
+    "data": "03/11/2026",
+    "local": "",
+    "concursoEspecial": true,
+    "dezenasOrdemSorteio": [],
+    "dezenas": [],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "1º (14 acertos)",
+        "faixa": 1,
+        "ganhadores": 5,
+        "valorPremio": 106901.06
+      },
+      {
+        "descricao": "2º (13 acertos)",
+        "faixa": 2,
+        "ganhadores": 158,
+        "valorPremio": 690.39
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": false,
+    "proximoConcurso": 1280,
+    "dataProximoConcurso": "04/11/2026",
+    "localGanhadores": [
+      {
+        "ganhadores": 3,
+        "municipio": "CANAL ELETRONICO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "--"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "CAXAMBU",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MG"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "ARARANGUA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SC"
+      }
+    ],
+    "valorArrecadado": 1983322.0,
+    "valorAcumuladoConcurso_0_5": 402577.03,
+    "valorAcumuladoConcursoEspecial": 1239362.28,
+    "valorAcumuladoProximoConcurso": 402577.03,
+    "valorEstimadoProximoConcurso": 1000000.0
+  },
+  {
+    "loteria": "loteca",
     "concurso": 1278,
     "data": "29/10/2026",
     "local": "",
@@ -945,42 +1007,5 @@
     "valorAcumuladoConcursoEspecial": 445806.75,
     "valorAcumuladoProximoConcurso": 0.0,
     "valorEstimadoProximoConcurso": 600000.0
-  },
-  {
-    "loteria": "loteca",
-    "concurso": 1269,
-    "data": "08/09/2026",
-    "local": "",
-    "concursoEspecial": true,
-    "dezenasOrdemSorteio": [],
-    "dezenas": [],
-    "trevos": [],
-    "timeCoracao": null,
-    "mesSorte": null,
-    "premiacoes": [
-      {
-        "descricao": "1º (14 acertos)",
-        "faixa": 1,
-        "ganhadores": 0,
-        "valorPremio": 0.0
-      },
-      {
-        "descricao": "2º (13 acertos)",
-        "faixa": 2,
-        "ganhadores": 4,
-        "valorPremio": 23578.48
-      }
-    ],
-    "estadosPremiados": [],
-    "observacao": "",
-    "acumulou": true,
-    "proximoConcurso": 1270,
-    "dataProximoConcurso": "12/09/2026",
-    "localGanhadores": [],
-    "valorArrecadado": 2449712.0,
-    "valorAcumuladoConcurso_0_5": 332152.44,
-    "valorAcumuladoConcursoEspecial": 332152.44,
-    "valorAcumuladoProximoConcurso": 1483295.28,
-    "valorEstimadoProximoConcurso": 2000000.0
   }
 ]
