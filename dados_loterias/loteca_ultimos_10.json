@@ -1,6 +1,52 @@
 [
   {
     "loteria": "loteca",
+    "concurso": 1280,
+    "data": "05/11/2026",
+    "local": "",
+    "concursoEspecial": true,
+    "dezenasOrdemSorteio": [],
+    "dezenas": [],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "1º (14 acertos)",
+        "faixa": 1,
+        "ganhadores": 1,
+        "valorPremio": 842308.32
+      },
+      {
+        "descricao": "2º (13 acertos)",
+        "faixa": 2,
+        "ganhadores": 54,
+        "valorPremio": 1661.87
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": false,
+    "proximoConcurso": 1281,
+    "dataProximoConcurso": "08/11/2026",
+    "localGanhadores": [
+      {
+        "ganhadores": 1,
+        "municipio": "BRASILIA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "DF"
+      }
+    ],
+    "valorArrecadado": 1631656.0,
+    "valorAcumuladoConcurso_0_5": 62818.76,
+    "valorAcumuladoConcursoEspecial": 1302181.04,
+    "valorAcumuladoProximoConcurso": 0.0,
+    "valorEstimadoProximoConcurso": 500000.0
+  },
+  {
+    "loteria": "loteca",
     "concurso": 1279,
     "data": "03/11/2026",
     "local": "",
@@ -897,115 +943,5 @@
     "valorAcumuladoConcursoEspecial": 531751.61,
     "valorAcumuladoProximoConcurso": 601614.02,
     "valorEstimadoProximoConcurso": 1500000.0
-  },
-  {
-    "loteria": "loteca",
-    "concurso": 1270,
-    "data": "14/09/2026",
-    "local": "",
-    "concursoEspecial": true,
-    "dezenasOrdemSorteio": [],
-    "dezenas": [],
-    "trevos": [],
-    "timeCoracao": null,
-    "mesSorte": null,
-    "premiacoes": [
-      {
-        "descricao": "1º (14 acertos)",
-        "faixa": 1,
-        "ganhadores": 12,
-        "valorPremio": 189906.29
-      },
-      {
-        "descricao": "2º (13 acertos)",
-        "faixa": 2,
-        "ganhadores": 253,
-        "valorPremio": 641.75
-      }
-    ],
-    "estadosPremiados": [],
-    "observacao": "",
-    "acumulou": false,
-    "proximoConcurso": 1271,
-    "dataProximoConcurso": "19/09/2026",
-    "localGanhadores": [
-      {
-        "ganhadores": 4,
-        "municipio": "CANAL ELETRONICO",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "--"
-      },
-      {
-        "ganhadores": 1,
-        "municipio": "FEIRA DE SANTANA",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "BA"
-      },
-      {
-        "ganhadores": 1,
-        "municipio": "BRASILIA",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "DF"
-      },
-      {
-        "ganhadores": 1,
-        "municipio": "LUZIANIA",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "GO"
-      },
-      {
-        "ganhadores": 1,
-        "municipio": "APIUNA",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "SC"
-      },
-      {
-        "ganhadores": 1,
-        "municipio": "BAURU",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "SP"
-      },
-      {
-        "ganhadores": 1,
-        "municipio": "ITUPEVA",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "SP"
-      },
-      {
-        "ganhadores": 1,
-        "municipio": "MOGI DAS CRUZES",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "SP"
-      },
-      {
-        "ganhadores": 1,
-        "municipio": "SAO PAULO",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "SP"
-      }
-    ],
-    "valorArrecadado": 2952060.0,
-    "valorAcumuladoConcurso_0_5": 113654.31,
-    "valorAcumuladoConcursoEspecial": 445806.75,
-    "valorAcumuladoProximoConcurso": 0.0,
-    "valorEstimadoProximoConcurso": 600000.0
   }
 ]
