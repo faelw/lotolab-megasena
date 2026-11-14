@@ -1,6 +1,236 @@
 [
   {
     "loteria": "loteca",
+    "concurso": 1282,
+    "data": "13/11/2026",
+    "local": "",
+    "concursoEspecial": true,
+    "dezenasOrdemSorteio": [],
+    "dezenas": [],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "1º (14 acertos)",
+        "faixa": 1,
+        "ganhadores": 162,
+        "valorPremio": 2885.47
+      },
+      {
+        "descricao": "2º (13 acertos)",
+        "faixa": 2,
+        "ganhadores": 2703,
+        "valorPremio": 35.29
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": false,
+    "proximoConcurso": 1283,
+    "dataProximoConcurso": "16/11/2026",
+    "localGanhadores": [
+      {
+        "ganhadores": 60,
+        "municipio": "CANAL ELETRONICO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "--"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "AL"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "AM"
+      },
+      {
+        "ganhadores": 4,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "BA"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "CE"
+      },
+      {
+        "ganhadores": 3,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "DF"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "ES"
+      },
+      {
+        "ganhadores": 3,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "GO"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MA"
+      },
+      {
+        "ganhadores": 17,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MG"
+      },
+      {
+        "ganhadores": 4,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MS"
+      },
+      {
+        "ganhadores": 3,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MT"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "PA"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "PB"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "PE"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "PI"
+      },
+      {
+        "ganhadores": 7,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "PR"
+      },
+      {
+        "ganhadores": 13,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "RJ"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "RN"
+      },
+      {
+        "ganhadores": 2,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "RO"
+      },
+      {
+        "ganhadores": 4,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "RS"
+      },
+      {
+        "ganhadores": 5,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SC"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SE"
+      },
+      {
+        "ganhadores": 26,
+        "municipio": "",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      }
+    ],
+    "valorArrecadado": 1734498.0,
+    "valorAcumuladoConcurso_0_5": 206849.19,
+    "valorAcumuladoConcursoEspecial": 1446211.46,
+    "valorAcumuladoProximoConcurso": 0.0,
+    "valorEstimadoProximoConcurso": 500000.0
+  },
+  {
+    "loteria": "loteca",
     "concurso": 1281,
     "data": "09/11/2026",
     "local": "",
@@ -904,52 +1134,6 @@
     "valorArrecadado": 2667626.0,
     "valorAcumuladoConcurso_0_5": 401278.11,
     "valorAcumuladoConcursoEspecial": 733430.55,
-    "valorAcumuladoProximoConcurso": 0.0,
-    "valorEstimadoProximoConcurso": 600000.0
-  },
-  {
-    "loteria": "loteca",
-    "concurso": 1272,
-    "data": "28/09/2026",
-    "local": "",
-    "concursoEspecial": true,
-    "dezenasOrdemSorteio": [],
-    "dezenas": [],
-    "trevos": [],
-    "timeCoracao": null,
-    "mesSorte": null,
-    "premiacoes": [
-      {
-        "descricao": "1º (14 acertos)",
-        "faixa": 1,
-        "ganhadores": 1,
-        "valorPremio": 1294441.38
-      },
-      {
-        "descricao": "2º (13 acertos)",
-        "faixa": 2,
-        "ganhadores": 13,
-        "valorPremio": 7613.49
-      }
-    ],
-    "estadosPremiados": [],
-    "observacao": "",
-    "acumulou": false,
-    "proximoConcurso": 1273,
-    "dataProximoConcurso": "03/10/2026",
-    "localGanhadores": [
-      {
-        "ganhadores": 1,
-        "municipio": "SALVADOR",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "BA"
-      }
-    ],
-    "valorArrecadado": 2570788.0,
-    "valorAcumuladoConcurso_0_5": 298574.51,
-    "valorAcumuladoConcursoEspecial": 630726.95,
     "valorAcumuladoProximoConcurso": 0.0,
     "valorEstimadoProximoConcurso": 600000.0
   }

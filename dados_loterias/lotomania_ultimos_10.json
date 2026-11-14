@@ -1,6 +1,124 @@
 [
   {
     "loteria": "lotomania",
+    "concurso": 2999,
+    "data": "13/11/2026",
+    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
+    "concursoEspecial": true,
+    "dezenasOrdemSorteio": [
+      "01",
+      "02",
+      "05",
+      "08",
+      "14",
+      "17",
+      "24",
+      "32",
+      "37",
+      "41",
+      "44",
+      "55",
+      "58",
+      "59",
+      "71",
+      "74",
+      "76",
+      "79",
+      "80",
+      "92"
+    ],
+    "dezenas": [
+      "01",
+      "02",
+      "05",
+      "08",
+      "14",
+      "17",
+      "24",
+      "32",
+      "37",
+      "41",
+      "44",
+      "55",
+      "58",
+      "59",
+      "71",
+      "74",
+      "76",
+      "79",
+      "80",
+      "92"
+    ],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "20 acertos",
+        "faixa": 1,
+        "ganhadores": 2,
+        "valorPremio": 2830411.08
+      },
+      {
+        "descricao": "19 acertos",
+        "faixa": 2,
+        "ganhadores": 1,
+        "valorPremio": 273793.73
+      },
+      {
+        "descricao": "18 acertos",
+        "faixa": 3,
+        "ganhadores": 75,
+        "valorPremio": 2281.61
+      },
+      {
+        "descricao": "17 acertos",
+        "faixa": 4,
+        "ganhadores": 641,
+        "valorPremio": 266.95
+      },
+      {
+        "descricao": "16 acertos",
+        "faixa": 5,
+        "ganhadores": 4080,
+        "valorPremio": 41.94
+      },
+      {
+        "descricao": "15 acertos",
+        "faixa": 6,
+        "ganhadores": 16037,
+        "valorPremio": 10.67
+      },
+      {
+        "descricao": "0 acertos",
+        "faixa": 7,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": false,
+    "proximoConcurso": 3000,
+    "dataProximoConcurso": "16/11/2026",
+    "localGanhadores": [
+      {
+        "ganhadores": 2,
+        "municipio": "CANAL ELETRONICO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "--"
+      }
+    ],
+    "valorArrecadado": 5582523.0,
+    "valorAcumuladoConcurso_0_5": 0.0,
+    "valorAcumuladoConcursoEspecial": 0.0,
+    "valorAcumuladoProximoConcurso": 0.0,
+    "valorEstimadoProximoConcurso": 600000.0
+  },
+  {
+    "loteria": "lotomania",
     "concurso": 2998,
     "data": "11/11/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
@@ -996,131 +1114,5 @@
     "valorAcumuladoConcursoEspecial": 0.0,
     "valorAcumuladoProximoConcurso": 510722.01,
     "valorEstimadoProximoConcurso": 1000000.0
-  },
-  {
-    "loteria": "lotomania",
-    "concurso": 2989,
-    "data": "19/10/2026",
-    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": true,
-    "dezenasOrdemSorteio": [
-      "06",
-      "25",
-      "26",
-      "32",
-      "45",
-      "46",
-      "49",
-      "50",
-      "51",
-      "53",
-      "58",
-      "62",
-      "74",
-      "77",
-      "85",
-      "90",
-      "91",
-      "92",
-      "96",
-      "99"
-    ],
-    "dezenas": [
-      "06",
-      "25",
-      "26",
-      "32",
-      "45",
-      "46",
-      "49",
-      "50",
-      "51",
-      "53",
-      "58",
-      "62",
-      "74",
-      "77",
-      "85",
-      "90",
-      "91",
-      "92",
-      "96",
-      "99"
-    ],
-    "trevos": [],
-    "timeCoracao": null,
-    "mesSorte": null,
-    "premiacoes": [
-      {
-        "descricao": "20 acertos",
-        "faixa": 1,
-        "ganhadores": 1,
-        "valorPremio": 13862738.85
-      },
-      {
-        "descricao": "19 acertos",
-        "faixa": 2,
-        "ganhadores": 2,
-        "valorPremio": 165932.74
-      },
-      {
-        "descricao": "18 acertos",
-        "faixa": 3,
-        "ganhadores": 78,
-        "valorPremio": 2659.18
-      },
-      {
-        "descricao": "17 acertos",
-        "faixa": 4,
-        "ganhadores": 797,
-        "valorPremio": 260.24
-      },
-      {
-        "descricao": "16 acertos",
-        "faixa": 5,
-        "ganhadores": 4774,
-        "valorPremio": 43.44
-      },
-      {
-        "descricao": "15 acertos",
-        "faixa": 6,
-        "ganhadores": 19423,
-        "valorPremio": 10.67
-      },
-      {
-        "descricao": "0 acertos",
-        "faixa": 7,
-        "ganhadores": 1,
-        "valorPremio": 165932.75
-      }
-    ],
-    "estadosPremiados": [],
-    "observacao": "",
-    "acumulou": false,
-    "proximoConcurso": 2990,
-    "dataProximoConcurso": "21/10/2026",
-    "localGanhadores": [
-      {
-        "ganhadores": 1,
-        "municipio": "GASPAR",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "SC"
-      },
-      {
-        "ganhadores": 1,
-        "municipio": "GASPAR",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 2,
-        "uf": "SC"
-      }
-    ],
-    "valorArrecadado": 6766578.0,
-    "valorAcumuladoConcurso_0_5": 0.0,
-    "valorAcumuladoConcursoEspecial": 0.0,
-    "valorAcumuladoProximoConcurso": 0.0,
-    "valorEstimadoProximoConcurso": 500000.0
   }
 ]
