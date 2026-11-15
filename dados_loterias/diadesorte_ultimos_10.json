@@ -4,15 +4,15 @@
     "concurso": 1347,
     "data": "13/11/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": true,
+    "concursoEspecial": false,
     "dezenasOrdemSorteio": [
-      "02",
       "05",
-      "07",
       "09",
-      "14",
       "15",
-      "25"
+      "02",
+      "14",
+      "25",
+      "07"
     ],
     "dezenas": [
       "02",
@@ -25,7 +25,7 @@
     ],
     "trevos": [],
     "timeCoracao": null,
-    "mesSorte": null,
+    "mesSorte": "Abril",
     "premiacoes": [
       {
         "descricao": "7 acertos",
