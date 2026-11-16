@@ -4,15 +4,15 @@
     "concurso": 2467,
     "data": "12/11/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": false,
+    "concursoEspecial": true,
     "dezenasOrdemSorteio": [
       "02",
-      "31",
+      "11",
       "12",
-      "65",
-      "67",
       "23",
-      "11"
+      "31",
+      "65",
+      "67"
     ],
     "dezenas": [
       "02",
@@ -24,7 +24,7 @@
       "67"
     ],
     "trevos": [],
-    "timeCoracao": "RETRO BRASIL /PE",
+    "timeCoracao": null,
     "mesSorte": null,
     "premiacoes": [
       {
