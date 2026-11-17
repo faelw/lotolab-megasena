@@ -1,6 +1,67 @@
 [
   {
     "loteria": "quina",
+    "concurso": 7169,
+    "data": "16/11/2026",
+    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
+    "concursoEspecial": true,
+    "dezenasOrdemSorteio": [
+      "35",
+      "41",
+      "44",
+      "59",
+      "80"
+    ],
+    "dezenas": [
+      "35",
+      "41",
+      "44",
+      "59",
+      "80"
+    ],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "5 acertos",
+        "faixa": 1,
+        "ganhadores": 0,
+        "valorPremio": 0.0
+      },
+      {
+        "descricao": "4 acertos",
+        "faixa": 2,
+        "ganhadores": 53,
+        "valorPremio": 9521.59
+      },
+      {
+        "descricao": "3 acertos",
+        "faixa": 3,
+        "ganhadores": 3520,
+        "valorPremio": 136.53
+      },
+      {
+        "descricao": "2 acertos",
+        "faixa": 4,
+        "ganhadores": 93350,
+        "valorPremio": 5.14
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": true,
+    "proximoConcurso": 7170,
+    "dataProximoConcurso": "17/11/2026",
+    "localGanhadores": [],
+    "valorArrecadado": 10975413.0,
+    "valorAcumuladoConcurso_0_5": 2405487.97,
+    "valorAcumuladoConcursoEspecial": 56698598.45,
+    "valorAcumuladoProximoConcurso": 13330032.78,
+    "valorEstimadoProximoConcurso": 14500000.0
+  },
+  {
+    "loteria": "quina",
     "concurso": 7168,
     "data": "15/11/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
@@ -547,75 +608,5 @@
     "valorAcumuladoConcursoEspecial": 52921284.2,
     "valorAcumuladoProximoConcurso": 589526.21,
     "valorEstimadoProximoConcurso": 1300000.0
-  },
-  {
-    "loteria": "quina",
-    "concurso": 7159,
-    "data": "04/11/2026",
-    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": true,
-    "dezenasOrdemSorteio": [
-      "20",
-      "43",
-      "51",
-      "62",
-      "69"
-    ],
-    "dezenas": [
-      "20",
-      "43",
-      "51",
-      "62",
-      "69"
-    ],
-    "trevos": [],
-    "timeCoracao": null,
-    "mesSorte": null,
-    "premiacoes": [
-      {
-        "descricao": "5 acertos",
-        "faixa": 1,
-        "ganhadores": 1,
-        "valorPremio": 11825641.07
-      },
-      {
-        "descricao": "4 acertos",
-        "faixa": 2,
-        "ganhadores": 31,
-        "valorPremio": 15628.16
-      },
-      {
-        "descricao": "3 acertos",
-        "faixa": 3,
-        "ganhadores": 2664,
-        "valorPremio": 173.19
-      },
-      {
-        "descricao": "2 acertos",
-        "faixa": 4,
-        "ganhadores": 74591,
-        "valorPremio": 6.18
-      }
-    ],
-    "estadosPremiados": [],
-    "observacao": "",
-    "acumulou": false,
-    "proximoConcurso": 7160,
-    "dataProximoConcurso": "05/11/2026",
-    "localGanhadores": [
-      {
-        "ganhadores": 1,
-        "municipio": "CANAL ELETRONICO",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "--"
-      }
-    ],
-    "valorArrecadado": 10536711.0,
-    "valorAcumuladoConcurso_0_5": 2302293.56,
-    "valorAcumuladoConcursoEspecial": 52668630.11,
-    "valorAcumuladoProximoConcurso": 2302293.56,
-    "valorEstimadoProximoConcurso": 600000.0
   }
 ]
