@@ -1,6 +1,156 @@
 [
   {
     "loteria": "loteca",
+    "concurso": 1283,
+    "data": "17/11/2026",
+    "local": "",
+    "concursoEspecial": true,
+    "dezenasOrdemSorteio": [],
+    "dezenas": [],
+    "trevos": [],
+    "timeCoracao": null,
+    "mesSorte": null,
+    "premiacoes": [
+      {
+        "descricao": "1º (14 acertos)",
+        "faixa": 1,
+        "ganhadores": 33,
+        "valorPremio": 12489.04
+      },
+      {
+        "descricao": "2º (13 acertos)",
+        "faixa": 2,
+        "ganhadores": 849,
+        "valorPremio": 99.06
+      }
+    ],
+    "estadosPremiados": [],
+    "observacao": "",
+    "acumulou": false,
+    "proximoConcurso": 1284,
+    "dataProximoConcurso": "21/11/2026",
+    "localGanhadores": [
+      {
+        "ganhadores": 18,
+        "municipio": "CANAL ELETRONICO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "--"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "GOIANIA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "GO"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "ITUMBIARA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "GO"
+      },
+      {
+        "ganhadores": 2,
+        "municipio": "BELO HORIZONTE",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MG"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "JUIZ DE FORA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MG"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "CAMPO GRANDE",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "MS"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "CURITIBA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "PR"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "LARANJEIRAS DO SUL",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "PR"
+      },
+      {
+        "ganhadores": 2,
+        "municipio": "RIO DE JANEIRO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "RJ"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "SAO GONCALO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "RJ"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "SAO JOAO DA BARRA",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "RJ"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "CHAPECO",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SC"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "BAURU",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      },
+      {
+        "ganhadores": 1,
+        "municipio": "PEDERNEIRAS",
+        "nomeFatansiaUL": "",
+        "serie": "",
+        "posicao": 1,
+        "uf": "SP"
+      }
+    ],
+    "valorArrecadado": 1529270.0,
+    "valorAcumuladoConcurso_0_5": 0.0,
+    "valorAcumuladoConcursoEspecial": 1770814.43,
+    "valorAcumuladoProximoConcurso": 1770814.43,
+    "valorEstimadoProximoConcurso": 3500000.0
+  },
+  {
+    "loteria": "loteca",
     "concurso": 1282,
     "data": "13/11/2026",
     "local": "",
@@ -938,203 +1088,5 @@
     "valorAcumuladoConcursoEspecial": 836785.26,
     "valorAcumuladoProximoConcurso": 504632.83,
     "valorEstimadoProximoConcurso": 1500000.0
-  },
-  {
-    "loteria": "loteca",
-    "concurso": 1273,
-    "data": "05/10/2026",
-    "local": "",
-    "concursoEspecial": true,
-    "dezenasOrdemSorteio": [],
-    "dezenas": [],
-    "trevos": [],
-    "timeCoracao": null,
-    "mesSorte": null,
-    "premiacoes": [
-      {
-        "descricao": "1º (14 acertos)",
-        "faixa": 1,
-        "ganhadores": 257,
-        "valorPremio": 2797.37
-      },
-      {
-        "descricao": "2º (13 acertos)",
-        "faixa": 2,
-        "ganhadores": 4194,
-        "valorPremio": 34.98
-      }
-    ],
-    "estadosPremiados": [],
-    "observacao": "",
-    "acumulou": false,
-    "proximoConcurso": 1274,
-    "dataProximoConcurso": "10/10/2026",
-    "localGanhadores": [
-      {
-        "ganhadores": 123,
-        "municipio": "CANAL ELETRONICO",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "--"
-      },
-      {
-        "ganhadores": 2,
-        "municipio": "",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "AM"
-      },
-      {
-        "ganhadores": 10,
-        "municipio": "",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "BA"
-      },
-      {
-        "ganhadores": 2,
-        "municipio": "",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "CE"
-      },
-      {
-        "ganhadores": 3,
-        "municipio": "",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "DF"
-      },
-      {
-        "ganhadores": 3,
-        "municipio": "",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "ES"
-      },
-      {
-        "ganhadores": 8,
-        "municipio": "",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "GO"
-      },
-      {
-        "ganhadores": 17,
-        "municipio": "",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "MG"
-      },
-      {
-        "ganhadores": 2,
-        "municipio": "",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "MS"
-      },
-      {
-        "ganhadores": 1,
-        "municipio": "",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "MT"
-      },
-      {
-        "ganhadores": 5,
-        "municipio": "",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "PA"
-      },
-      {
-        "ganhadores": 1,
-        "municipio": "",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "PB"
-      },
-      {
-        "ganhadores": 3,
-        "municipio": "",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "PE"
-      },
-      {
-        "ganhadores": 11,
-        "municipio": "",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "PR"
-      },
-      {
-        "ganhadores": 11,
-        "municipio": "",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "RJ"
-      },
-      {
-        "ganhadores": 2,
-        "municipio": "",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "RN"
-      },
-      {
-        "ganhadores": 3,
-        "municipio": "",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "RS"
-      },
-      {
-        "ganhadores": 7,
-        "municipio": "",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "SC"
-      },
-      {
-        "ganhadores": 41,
-        "municipio": "",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "SP"
-      },
-      {
-        "ganhadores": 2,
-        "municipio": "",
-        "nomeFatansiaUL": "",
-        "serie": "",
-        "posicao": 1,
-        "uf": "TO"
-      }
-    ],
-    "valorArrecadado": 2667626.0,
-    "valorAcumuladoConcurso_0_5": 401278.11,
-    "valorAcumuladoConcursoEspecial": 733430.55,
-    "valorAcumuladoProximoConcurso": 0.0,
-    "valorEstimadoProximoConcurso": 600000.0
   }
 ]
