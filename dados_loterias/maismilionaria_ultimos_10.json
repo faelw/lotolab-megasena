@@ -4,14 +4,16 @@
     "concurso": 407,
     "data": "13/11/2026",
     "local": "Espaço da Sorte em SAO PAULO, SP",
-    "concursoEspecial": true,
+    "concursoEspecial": false,
     "dezenasOrdemSorteio": [
-      "09",
+      "50",
       "22",
       "25",
       "26",
+      "09",
       "28",
-      "50"
+      "02",
+      "03"
     ],
     "dezenas": [
       "09",
