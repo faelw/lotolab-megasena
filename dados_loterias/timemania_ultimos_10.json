@@ -3,16 +3,16 @@
     "loteria": "timemania",
     "concurso": 2469,
     "data": "17/11/2026",
-    "local": "ESPAÇO DA SORTE em SÃO PAULO,  SP",
-    "concursoEspecial": true,
+    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
+    "concursoEspecial": false,
     "dezenasOrdemSorteio": [
-      "04",
-      "14",
+      "38",
       "15",
       "16",
+      "04",
       "33",
-      "38",
-      "57"
+      "57",
+      "14"
     ],
     "dezenas": [
       "04",
@@ -24,7 +24,7 @@
       "57"
     ],
     "trevos": [],
-    "timeCoracao": null,
+    "timeCoracao": "PAYSANDU /PA",
     "mesSorte": null,
     "premiacoes": [
       {
