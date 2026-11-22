@@ -4,15 +4,15 @@
     "concurso": 2470,
     "data": "19/11/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": false,
+    "concursoEspecial": true,
     "dezenasOrdemSorteio": [
-      "22",
-      "71",
-      "79",
-      "06",
-      "51",
+      "03",
       "04",
-      "03"
+      "06",
+      "22",
+      "51",
+      "71",
+      "79"
     ],
     "dezenas": [
       "03",
@@ -24,7 +24,7 @@
       "79"
     ],
     "trevos": [],
-    "timeCoracao": "CUIABA /MT",
+    "timeCoracao": null,
     "mesSorte": null,
     "premiacoes": [
       {

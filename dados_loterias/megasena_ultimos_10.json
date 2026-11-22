@@ -4,14 +4,14 @@
     "concurso": 3088,
     "data": "19/11/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": false,
+    "concursoEspecial": true,
     "dezenasOrdemSorteio": [
-      "34",
-      "44",
-      "21",
       "10",
+      "21",
+      "24",
       "28",
-      "24"
+      "34",
+      "44"
     ],
     "dezenas": [
       "10",
