@@ -4,13 +4,13 @@
     "concurso": 7172,
     "data": "19/11/2026",
     "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
-    "concursoEspecial": true,
+    "concursoEspecial": false,
     "dezenasOrdemSorteio": [
-      "04",
-      "11",
+      "48",
       "40",
+      "04",
       "45",
-      "48"
+      "11"
     ],
     "dezenas": [
       "04",
