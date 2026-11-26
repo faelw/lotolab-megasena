@@ -3,7 +3,7 @@
     "loteria": "quina",
     "concurso": 7172,
     "data": "19/11/2026",
-    "local": "ESPAÇO DA SORTE em SÃO PAULO, SP",
+    "local": "ESPAÇO DA SORTE em SÃO PAULO,  SP",
     "concursoEspecial": true,
     "dezenasOrdemSorteio": [
       "04",
@@ -58,7 +58,7 @@
     "valorAcumuladoConcurso_0_5": 0.0,
     "valorAcumuladoConcursoEspecial": 62193912.34,
     "valorAcumuladoProximoConcurso": 62193912.34,
-    "valorEstimadoProximoConcurso": 50000000.0
+    "valorEstimadoProximoConcurso": 80000000.0
   },
   {
     "loteria": "quina",
